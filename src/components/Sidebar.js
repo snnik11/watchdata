@@ -5,7 +5,7 @@ import { Navbar, Nav } from "react-bootstrap";
 const headerSheet = {
   fontFamily: "Arial",
   fontWeight: "bold",
-  fontSize: "32px",
+  fontSize: "29px",
 };
 
 // css for navbar links
@@ -13,6 +13,7 @@ const subSheet = {
   fontWeight: "bold",
   fontSize: "22px",
   fontFamily: "Arial",
+  marginLeft: "auto",
 };
 
 function NavBar() {
@@ -26,8 +27,8 @@ function NavBar() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto" style={subSheet}>
             {/* <Nav.Link href="/">Home</Nav.Link> */}
-            <Nav.Link href="/psychologist">Psycho</Nav.Link>
-            <Nav.Link href="/dashboard">User check </Nav.Link>
+            <Nav.Link href="/psychologist">Psychology</Nav.Link>
+            <Nav.Link href="/dashboard">Dashboard </Nav.Link>
 
             {/* <Nav.Link href="/pricehistory">PriceHistory</Nav.Link> */}
 
