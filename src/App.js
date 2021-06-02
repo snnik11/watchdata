@@ -4,7 +4,7 @@ import React, { Component } from "react";
 import Dashboard from "./components/Dashboard";
 import Psychologist from "./components/Psychologist";
 import Login from "./components/Login";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 import SideNav from "./components/Sidebar";
 
