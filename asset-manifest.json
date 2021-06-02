@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/watchdata/static/css/main.9f8706cb.chunk.css",
+    "main.js": "/watchdata/static/js/main.491fee8a.chunk.js",
+    "main.js.map": "/watchdata/static/js/main.491fee8a.chunk.js.map",
+    "runtime-main.js": "/watchdata/static/js/runtime-main.605e5335.js",
+    "runtime-main.js.map": "/watchdata/static/js/runtime-main.605e5335.js.map",
+    "static/css/2.c2c2f7ba.chunk.css": "/watchdata/static/css/2.c2c2f7ba.chunk.css",
+    "static/js/2.c95b9232.chunk.js": "/watchdata/static/js/2.c95b9232.chunk.js",
+    "static/js/2.c95b9232.chunk.js.map": "/watchdata/static/js/2.c95b9232.chunk.js.map",
+    "index.html": "/watchdata/index.html",
+    "static/css/2.c2c2f7ba.chunk.css.map": "/watchdata/static/css/2.c2c2f7ba.chunk.css.map",
+    "static/css/main.9f8706cb.chunk.css.map": "/watchdata/static/css/main.9f8706cb.chunk.css.map",
+    "static/js/2.c95b9232.chunk.js.LICENSE.txt": "/watchdata/static/js/2.c95b9232.chunk.js.LICENSE.txt",
+    "static/media/Psychologist.40a07aa5.jpg": "/watchdata/static/media/Psychologist.40a07aa5.jpg",
+    "static/media/heartrate.fa2edc70.gif": "/watchdata/static/media/heartrate.fa2edc70.gif",
+    "static/media/sleep.630986d7.gif": "/watchdata/static/media/sleep.630986d7.gif",
+    "static/media/walking.f8c7f16d.gif": "/watchdata/static/media/walking.f8c7f16d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.605e5335.js",
+    "static/css/2.c2c2f7ba.chunk.css",
+    "static/js/2.c95b9232.chunk.js",
+    "static/css/main.9f8706cb.chunk.css",
+    "static/js/main.491fee8a.chunk.js"
+  ]
+}
