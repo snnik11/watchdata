@@ -10,7 +10,7 @@ const headerSheet = {
 
 // css for navbar links
 const subSheet = {
-  fontWeight: "bold",
+  // fontWeight: "bold",
   fontSize: "22px",
   fontFamily: "Arial",
   marginLeft: "auto",
@@ -29,7 +29,7 @@ function NavBar() {
             {/* <Nav.Link href="/">Home</Nav.Link> */}
             <Nav.Link href="/psychologist">Psychology</Nav.Link>
             <Nav.Link href="/dashboard">Dashboard </Nav.Link>
-
+            <Nav.Link href="/login">Login </Nav.Link>
             {/* <Nav.Link href="/pricehistory">PriceHistory</Nav.Link> */}
 
             {/* <Nav.Link href="/quote">Quote</Nav.Link> */}
