@@ -18,7 +18,7 @@ class Psychologist extends Component {
         cellRenderer: function (params) {
           //for creating Symbol hyperlink
           let linkData = params.data.id;
-          let linkedPage = `<a href= http://localhost:3001/dashboard/${linkData} target="_blank"> ${linkData}</a>`;
+          let linkedPage = `<a href= http://localhost:3000/dashboard/${linkData} target="_blank"> ${linkData}</a>`;
           return linkedPage;
         },
       },

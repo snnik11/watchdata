@@ -12,7 +12,7 @@ class Footer extends Component {
                 <Link to="/">Home</Link>
               </li>
             </ul> */}
-            <p className="copyright text-center">©️ 2019</p>
+            <p className="copyright text-center">©️ 2021</p>
           </nav>
         </div>
       </footer>
