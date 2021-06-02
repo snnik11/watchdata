@@ -1,13 +1,12 @@
 import React from "react";
 import { AgGridReact } from "ag-grid-react";
 import { Component } from "react";
-
 import Card from "react-bootstrap/Card";
 import photo from "./Psychologist.jpg";
 import "../App.css";
 import "ag-grid-community/dist/styles/ag-grid.css";
 import "ag-grid-community/dist/styles/ag-theme-alpine.css";
-import { Badge } from "reactstrap";
+import Badge from "react-bootstrap/Badge";
 
 class Psychologist extends Component {
   render() {
@@ -18,25 +17,26 @@ class Psychologist extends Component {
         field: "id",
         cellRenderer: function (params) {
           //for creating Symbol hyperlink
-          let linkMyData = params.data.id;
-          let linkedPage = `<a href= http://localhost:3000/dashboard/${linkMyData} target="_blank"> ${linkMyData}</a>`;
+          let linkData = params.data.id;
+          let linkedPage = `<a href= http://localhost:3001/dashboard/${linkData} target="_blank"> ${linkData}</a>`;
           return linkedPage;
         },
       },
       { headerName: "Name", field: "name" },
+      { headerName: "Age group", field: "age-Group" },
+      { headerName: "Gender", field: "gender" },
       { headerName: "Email", field: "email" },
       {
         headerName: "Phone",
         field: "phone",
         headingCell: { color: "darkblue", "background-color": "white" },
       },
-      { headerName: "Heart Rate(BPM)", field: "Heart Rate" },
-      { headerName: "Sleep(in hours)", field: "Sleep" },
-      { headerName: "Step Count", field: "Step Count" },
+      { headerName: "Body Type", field: "body_type" },
     ];
 
     //data in users
     var url1 = require("./user.json");
+    console.log(url1.length);
 
     //graph in table starts //
     // var url = require("./fakedata.json");
@@ -97,9 +97,7 @@ class Psychologist extends Component {
           <br />
         </div>
         <br />
-
         <br />
-
         {/* table  */}
         <div className="container">
           <h2
@@ -115,9 +113,8 @@ class Psychologist extends Component {
             User Information
           </h2>
           <p>
-            <Badge color="success">{url1.length} </Badge>numbers of clients
+            <Badge color="success"> {url1.length} </Badge>numbers of clients
           </p>
-
           <div
             className="ag-theme-alpine"
             style={{

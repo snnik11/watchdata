@@ -10,14 +10,8 @@ import bed from "./sleep.gif";
 import walking from "./walking.gif";
 import heartrate from "./heartrate.gif";
 import { useParams } from "react-router-dom";
-//import { useParams } from "react-router";
-
 const Dash = () => {
-  //let URL_Qchart = `https://financialmodelingprep.com/api/v3/historical-price-full/${LinkQuery}?&apikey=66b45054f09ccb85c9e78997eaa2a2da`;
-  const { linkData } = useParams();
-  let urlchart = `http://localhost:3000/dashboard/1 `;
-  //let { id } = useParams();
-
+  let { handle } = useParams();
   //column with all 3 parameter
   const columns = [
     {
@@ -25,16 +19,25 @@ const Dash = () => {
       field: "Date",
       backgroundColor: "lightpink",
     },
-    { headerName: "Sleep(in hours)", field: "Sleep" },
-    { headerName: "Step Count", field: "Step Count" },
-    { headerName: "Heart Rate(BPM)", field: "Heart Rate" },
+    { headerName: "Sleep(in hours)", field: "Hours" },
+    { headerName: "Step Count", field: "Steps" },
+    { headerName: "Heart Rate(BPM)", field: "heart_rate_bpm" },
   ];
-
   //user information
-  var url = require("./fakedata.json");
-  console.log(url);
+  if (handle == 10) var url = require("./tejus.json");
+  else if (handle == 2) var url = require("./adi.json");
+  else if (handle == 3) var url = require("./bala.json");
+  else if (handle == 4) var url = require("./niki.json");
+  else if (handle == 5) var url = require("./sahil.json");
+  else if (handle == 6) var url = require("./yash.json");
+  else if (handle == 7) var url = require("./priya.json");
+  else if (handle == 8) var url = require("./sahil.json");
+  else if (handle == 9) var url = require("./yash.json");
+  else if (handle == 1) var url = require("./fakedata.json");
 
-  //ag grid features
+  //.console.log(url)
+  let value = handle;
+  console.log(value);
   const defaultColDef = {
     flex: 1,
     filter: true,
@@ -49,10 +52,14 @@ const Dash = () => {
   const sleep = [];
   for (var i = 0; i < url.length; i++) {
     date[i] = url[i].Date;
-    heartRate[i] = url[i]["Heart Rate"];
-    footSteps[i] = url[i]["Step Count"];
-    sleep[i] = url[i].Sleep;
+    heartRate[i] = url[i]["heart_rate_bpm"];
+    footSteps[i] = url[i]["Steps"];
+    sleep[i] = url[i].Hours;
   }
+
+  //Graph first value set to 0
+  date.unshift(0);
+  heartRate.unshift(0);
 
   //latest sleep readings
   const lastS = sleep[sleep.length - 1];
@@ -76,8 +83,6 @@ const Dash = () => {
   return (
     <div>
       <br />
-      <h1 style={{ textAlign: "center" }}> Historical Data of {linkData}</h1>
-      {/* <h3> </h3> */}
       <h1
         style={{
           textAlign: "center",
@@ -85,7 +90,7 @@ const Dash = () => {
         }}
       >
         {/* <h2> ID : {id}</h2> */}
-        User Profile
+        User {handle} Profile
       </h1>
       <br />
       <div className="flex-container">

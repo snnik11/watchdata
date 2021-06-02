@@ -1,0 +1,6758 @@
+[
+ {
+   "Date": "2020-07-14",
+   "heart_rate_bpm": 92.52,
+   "Hours": null,
+   "Steps": 2484
+ },
+ {
+   "Date": "2020-07-15",
+   "heart_rate_bpm": 93.74,
+   "Hours": null,
+   "Steps": 5895
+ },
+ {
+   "Date": "2020-07-16",
+   "heart_rate_bpm": 79.96,
+   "Hours": null,
+   "Steps": 2434
+ },
+ {
+   "Date": "2020-07-17",
+   "heart_rate_bpm": 93.28,
+   "Hours": null,
+   "Steps": 4869
+ },
+ {
+   "Date": "2020-07-18",
+   "heart_rate_bpm": 85.82,
+   "Hours": null,
+   "Steps": 3415
+ },
+ {
+   "Date": "2020-07-19",
+   "heart_rate_bpm": 78,
+   "Hours": null,
+   "Steps": 8806
+ },
+ {
+   "Date": "2020-07-20",
+   "heart_rate_bpm": 86.34,
+   "Hours": null,
+   "Steps": 6019
+ },
+ {
+   "Date": "2020-07-22",
+   "heart_rate_bpm": 91.96,
+   "Hours": null,
+   "Steps": 1835
+ },
+ {
+   "Date": "2020-07-24",
+   "heart_rate_bpm": 84.91,
+   "Hours": null,
+   "Steps": 2785
+ },
+ {
+   "Date": "2020-07-25",
+   "heart_rate_bpm": 87.36,
+   "Hours": null,
+   "Steps": 1408
+ },
+ {
+   "Date": "2020-07-26",
+   "heart_rate_bpm": 89.39,
+   "Hours": null,
+   "Steps": 11724
+ },
+ {
+   "Date": "2020-07-27",
+   "heart_rate_bpm": 87.22,
+   "Hours": null,
+   "Steps": 13355
+ },
+ {
+   "Date": "2020-07-28",
+   "heart_rate_bpm": 73.79,
+   "Hours": null,
+   "Steps": 607
+ },
+ {
+   "Date": "2020-07-29",
+   "heart_rate_bpm": 90.05,
+   "Hours": null,
+   "Steps": 2921
+ },
+ {
+   "Date": "2020-07-30",
+   "heart_rate_bpm": 87.18,
+   "Hours": null,
+   "Steps": 2317
+ },
+ {
+   "Date": "2020-07-31",
+   "heart_rate_bpm": 83.82,
+   "Hours": null,
+   "Steps": 1599
+ },
+ {
+   "Date": "2020-08-01",
+   "heart_rate_bpm": 93.86,
+   "Hours": null,
+   "Steps": 2395
+ },
+ {
+   "Date": "2020-08-02",
+   "heart_rate_bpm": 91.18,
+   "Hours": null,
+   "Steps": 123
+ },
+ {
+   "Date": "2020-08-03",
+   "heart_rate_bpm": 97.92,
+   "Hours": null,
+   "Steps": 18919
+ },
+ {
+   "Date": "2020-08-04",
+   "heart_rate_bpm": 103.43,
+   "Hours": null,
+   "Steps": 5993
+ },
+ {
+   "Date": "2020-08-05",
+   "heart_rate_bpm": 97.82,
+   "Hours": null,
+   "Steps": 5432
+ },
+ {
+   "Date": "2020-08-06",
+   "heart_rate_bpm": 100.88,
+   "Hours": null,
+   "Steps": 2551
+ },
+ {
+   "Date": "2020-08-07",
+   "heart_rate_bpm": 103.77,
+   "Hours": null,
+   "Steps": 6931
+ },
+ {
+   "Date": "2020-08-08",
+   "heart_rate_bpm": 96.33,
+   "Hours": null,
+   "Steps": 2479
+ },
+ {
+   "Date": "2020-08-09",
+   "heart_rate_bpm": 102.17,
+   "Hours": null,
+   "Steps": 1786
+ },
+ {
+   "Date": "2020-08-10",
+   "heart_rate_bpm": 90.64,
+   "Hours": null,
+   "Steps": 5357
+ },
+ {
+   "Date": "2020-08-11",
+   "heart_rate_bpm": 45,
+   "Hours": null,
+   "Steps": 1152
+ },
+ {
+   "Date": "2020-08-12",
+   "heart_rate_bpm": 96.7,
+   "Hours": null,
+   "Steps": 5137
+ },
+ {
+   "Date": "2020-08-15",
+   "heart_rate_bpm": 80.5,
+   "Hours": null,
+   "Steps": 718
+ },
+ {
+   "Date": "2020-08-17",
+   "heart_rate_bpm": 87.76,
+   "Hours": null,
+   "Steps": 14724
+ },
+ {
+   "Date": "2020-08-19",
+   "heart_rate_bpm": 83.21,
+   "Hours": null,
+   "Steps": 6504
+ },
+ {
+   "Date": "2020-08-20",
+   "heart_rate_bpm": 86.8,
+   "Hours": null,
+   "Steps": 3682
+ },
+ {
+   "Date": "2020-08-23",
+   "heart_rate_bpm": 87,
+   "Hours": null,
+   "Steps": 1655
+ },
+ {
+   "Date": "2020-08-24",
+   "heart_rate_bpm": 87.37,
+   "Hours": null,
+   "Steps": 13802
+ },
+ {
+   "Date": "2020-08-22",
+   "heart_rate_bpm": 92.94,
+   "Hours": null,
+   "Steps": 15212
+ },
+ {
+   "Date": "2020-08-25",
+   "heart_rate_bpm": 89.1,
+   "Hours": null,
+   "Steps": 9826
+ },
+ {
+   "Date": "2020-08-26",
+   "heart_rate_bpm": 78.52,
+   "Hours": null,
+   "Steps": 7869
+ },
+ {
+   "Date": "2020-08-27",
+   "heart_rate_bpm": 89.26,
+   "Hours": null,
+   "Steps": 1558
+ },
+ {
+   "Date": "2020-08-28",
+   "heart_rate_bpm": 98.48,
+   "Hours": null,
+   "Steps": 9155
+ },
+ {
+   "Date": "2020-08-29",
+   "heart_rate_bpm": 84.73,
+   "Hours": null,
+   "Steps": 5224
+ },
+ {
+   "Date": "2020-08-31",
+   "heart_rate_bpm": 91,
+   "Hours": null,
+   "Steps": 711
+ },
+ {
+   "Date": "2020-09-02",
+   "heart_rate_bpm": 88.19,
+   "Hours": null,
+   "Steps": 9420
+ },
+ {
+   "Date": "2020-09-03",
+   "heart_rate_bpm": 101.04,
+   "Hours": null,
+   "Steps": 1748
+ },
+ {
+   "Date": "2020-09-05",
+   "heart_rate_bpm": 80.45,
+   "Hours": null,
+   "Steps": 920
+ },
+ {
+   "Date": "2020-09-06",
+   "heart_rate_bpm": 93.86,
+   "Hours": null,
+   "Steps": 3637
+ },
+ {
+   "Date": "2020-09-07",
+   "heart_rate_bpm": 86.04,
+   "Hours": null,
+   "Steps": 5448
+ },
+ {
+   "Date": "2020-09-08",
+   "heart_rate_bpm": 88.59,
+   "Hours": null,
+   "Steps": 5615
+ },
+ {
+   "Date": "2020-09-09",
+   "heart_rate_bpm": 94.33,
+   "Hours": null,
+   "Steps": 1821
+ },
+ {
+   "Date": "2020-09-10",
+   "heart_rate_bpm": 91.33,
+   "Hours": null,
+   "Steps": 1630
+ },
+ {
+   "Date": "2020-09-11",
+   "heart_rate_bpm": 85.85,
+   "Hours": null,
+   "Steps": 3463
+ },
+ {
+   "Date": "2020-09-12",
+   "heart_rate_bpm": 97.65,
+   "Hours": null,
+   "Steps": 6949
+ },
+ {
+   "Date": "2020-09-13",
+   "heart_rate_bpm": 91.7,
+   "Hours": null,
+   "Steps": 2785
+ },
+ {
+   "Date": "2020-09-14",
+   "heart_rate_bpm": 84.15,
+   "Hours": null,
+   "Steps": 7124
+ },
+ {
+   "Date": "2020-09-19",
+   "heart_rate_bpm": 102.8,
+   "Hours": null,
+   "Steps": 6829
+ },
+ {
+   "Date": "2020-09-20",
+   "heart_rate_bpm": 84.59,
+   "Hours": null,
+   "Steps": 4951
+ },
+ {
+   "Date": "2020-09-21",
+   "heart_rate_bpm": 93.66,
+   "Hours": null,
+   "Steps": 9603
+ },
+ {
+   "Date": "2020-09-27",
+   "heart_rate_bpm": 95.51,
+   "Hours": null,
+   "Steps": 6622
+ },
+ {
+   "Date": "2020-09-28",
+   "heart_rate_bpm": 89.01,
+   "Hours": null,
+   "Steps": 10502
+ },
+ {
+   "Date": "2020-09-29",
+   "heart_rate_bpm": 87.46,
+   "Hours": null,
+   "Steps": 24158
+ },
+ {
+   "Date": "2020-09-30",
+   "heart_rate_bpm": 96.6,
+   "Hours": null,
+   "Steps": 2154
+ },
+ {
+   "Date": "2020-10-01",
+   "heart_rate_bpm": 81,
+   "Hours": null,
+   "Steps": 509
+ },
+ {
+   "Date": "2020-10-05",
+   "heart_rate_bpm": 86,
+   "Hours": null,
+   "Steps": 6245
+ },
+ {
+   "Date": "2020-10-06",
+   "heart_rate_bpm": 91.75,
+   "Hours": null,
+   "Steps": 9271
+ },
+ {
+   "Date": "2020-10-07",
+   "heart_rate_bpm": 92.96,
+   "Hours": null,
+   "Steps": 5726
+ },
+ {
+   "Date": "2021-03-18",
+   "heart_rate_bpm": 93.78,
+   "Hours": 0.01,
+   "Steps": 9361
+ },
+ {
+   "Date": "2021-03-19",
+   "heart_rate_bpm": 101.62,
+   "Hours": 8.01,
+   "Steps": 2086
+ },
+ {
+   "Date": "2021-03-22",
+   "heart_rate_bpm": 78,
+   "Hours": 8,
+   "Steps": 673
+ },
+ {
+   "Date": "2021-03-23",
+   "heart_rate_bpm": 96.22,
+   "Hours": 7.75,
+   "Steps": 3695
+ },
+ {
+   "Date": "2021-03-24",
+   "heart_rate_bpm": 114.21,
+   "Hours": 7.8,
+   "Steps": 8753
+ },
+ {
+   "Date": "2021-03-25",
+   "heart_rate_bpm": 89.43,
+   "Hours": 0.09,
+   "Steps": 14825
+ },
+ {
+   "Date": "2021-04-15",
+   "heart_rate_bpm": 108.61,
+   "Hours": 8.01,
+   "Steps": 1767
+ },
+ {
+   "Date": "2021-04-16",
+   "heart_rate_bpm": 59,
+   "Hours": 7.61,
+   "Steps": 195
+ },
+ {
+   "Date": "2021-04-20",
+   "heart_rate_bpm": 101.13,
+   "Hours": 0.44,
+   "Steps": 2374
+ },
+ {
+   "Date": "2021-04-21",
+   "heart_rate_bpm": 107.88,
+   "Hours": 6.68,
+   "Steps": 3475
+ },
+ {
+   "Date": "2021-04-24",
+   "heart_rate_bpm": 84,
+   "Hours": null,
+   "Steps": 2901
+ },
+ {
+   "Date": "2021-04-25",
+   "heart_rate_bpm": 92.42,
+   "Hours": null,
+   "Steps": 1292
+ },
+ {
+   "Date": "2021-04-27",
+   "heart_rate_bpm": 88.03,
+   "Hours": 8.18,
+   "Steps": 2830
+ },
+ {
+   "Date": "2021-05-05",
+   "heart_rate_bpm": 99.52,
+   "Hours": 8.15,
+   "Steps": 2629
+ },
+ {
+   "Date": "2021-05-11",
+   "heart_rate_bpm": 79.55,
+   "Hours": 8.57,
+   "Steps": 5133
+ },
+ {
+   "Date": "2017-10-18",
+   "heart_rate_bpm": null,
+   "Hours": 6.39,
+   "Steps": 168
+ },
+ {
+   "Date": "2017-10-19",
+   "heart_rate_bpm": null,
+   "Hours": 6.47,
+   "Steps": 3135
+ },
+ {
+   "Date": "2017-10-20",
+   "heart_rate_bpm": null,
+   "Hours": 7.88,
+   "Steps": 1625
+ },
+ {
+   "Date": "2017-10-21",
+   "heart_rate_bpm": null,
+   "Hours": 6.73,
+   "Steps": 452
+ },
+ {
+   "Date": "2017-10-24",
+   "heart_rate_bpm": null,
+   "Hours": 7.06,
+   "Steps": 2893
+ },
+ {
+   "Date": "2017-10-25",
+   "heart_rate_bpm": null,
+   "Hours": 6.85,
+   "Steps": 3368
+ },
+ {
+   "Date": "2017-10-26",
+   "heart_rate_bpm": null,
+   "Hours": 7.64,
+   "Steps": 2382
+ },
+ {
+   "Date": "2017-10-27",
+   "heart_rate_bpm": null,
+   "Hours": 5.62,
+   "Steps": 5668
+ },
+ {
+   "Date": "2017-10-28",
+   "heart_rate_bpm": null,
+   "Hours": 8.11,
+   "Steps": 3830
+ },
+ {
+   "Date": "2017-10-30",
+   "heart_rate_bpm": null,
+   "Hours": 8.3,
+   "Steps": 2283
+ },
+ {
+   "Date": "2017-10-31",
+   "heart_rate_bpm": null,
+   "Hours": 7.41,
+   "Steps": 996
+ },
+ {
+   "Date": "2017-11-01",
+   "heart_rate_bpm": null,
+   "Hours": 7.2,
+   "Steps": 4624
+ },
+ {
+   "Date": "2017-11-02",
+   "heart_rate_bpm": null,
+   "Hours": 6.68,
+   "Steps": 8725
+ },
+ {
+   "Date": "2017-11-03",
+   "heart_rate_bpm": null,
+   "Hours": 6.1,
+   "Steps": 9909
+ },
+ {
+   "Date": "2017-11-04",
+   "heart_rate_bpm": null,
+   "Hours": 7.33,
+   "Steps": 7647
+ },
+ {
+   "Date": "2017-11-06",
+   "heart_rate_bpm": null,
+   "Hours": 1.98,
+   "Steps": 9688
+ },
+ {
+   "Date": "2017-11-07",
+   "heart_rate_bpm": null,
+   "Hours": 0.06,
+   "Steps": 3297
+ },
+ {
+   "Date": "2017-11-08",
+   "heart_rate_bpm": null,
+   "Hours": 4.61,
+   "Steps": 4381
+ },
+ {
+   "Date": "2017-11-09",
+   "heart_rate_bpm": null,
+   "Hours": 4.64,
+   "Steps": 5574
+ },
+ {
+   "Date": "2017-11-10",
+   "heart_rate_bpm": null,
+   "Hours": 4.14,
+   "Steps": 3344
+ },
+ {
+   "Date": "2017-11-11",
+   "heart_rate_bpm": null,
+   "Hours": 6.63,
+   "Steps": 1823
+ },
+ {
+   "Date": "2017-11-13",
+   "heart_rate_bpm": null,
+   "Hours": 7.22,
+   "Steps": 5316
+ },
+ {
+   "Date": "2017-11-14",
+   "heart_rate_bpm": null,
+   "Hours": 7.1,
+   "Steps": 4754
+ },
+ {
+   "Date": "2017-11-15",
+   "heart_rate_bpm": null,
+   "Hours": 8.01,
+   "Steps": 3698
+ },
+ {
+   "Date": "2017-11-16",
+   "heart_rate_bpm": null,
+   "Hours": 7.95,
+   "Steps": 1518
+ },
+ {
+   "Date": "2017-11-24",
+   "heart_rate_bpm": null,
+   "Hours": 6,
+   "Steps": 4491
+ },
+ {
+   "Date": "2017-11-25",
+   "heart_rate_bpm": null,
+   "Hours": 7.19,
+   "Steps": 1182
+ },
+ {
+   "Date": "2017-11-27",
+   "heart_rate_bpm": null,
+   "Hours": 7,
+   "Steps": 4277
+ },
+ {
+   "Date": "2017-11-28",
+   "heart_rate_bpm": null,
+   "Hours": 4.99,
+   "Steps": 2153
+ },
+ {
+   "Date": "2017-11-29",
+   "heart_rate_bpm": null,
+   "Hours": 7.03,
+   "Steps": 2226
+ },
+ {
+   "Date": "2017-11-30",
+   "heart_rate_bpm": null,
+   "Hours": 0.09,
+   "Steps": 3674
+ },
+ {
+   "Date": "2017-12-01",
+   "heart_rate_bpm": null,
+   "Hours": 3.59,
+   "Steps": 1787
+ },
+ {
+   "Date": "2017-12-02",
+   "heart_rate_bpm": null,
+   "Hours": 6.61,
+   "Steps": 1338
+ },
+ {
+   "Date": "2017-12-04",
+   "heart_rate_bpm": null,
+   "Hours": 4.59,
+   "Steps": 4252
+ },
+ {
+   "Date": "2017-12-06",
+   "heart_rate_bpm": null,
+   "Hours": 5.39,
+   "Steps": 1025
+ },
+ {
+   "Date": "2017-12-07",
+   "heart_rate_bpm": null,
+   "Hours": 7.48,
+   "Steps": 2552
+ },
+ {
+   "Date": "2017-12-09",
+   "heart_rate_bpm": null,
+   "Hours": 1.89,
+   "Steps": 2073
+ },
+ {
+   "Date": "2017-12-11",
+   "heart_rate_bpm": null,
+   "Hours": 5.28,
+   "Steps": 6751
+ },
+ {
+   "Date": "2017-12-12",
+   "heart_rate_bpm": null,
+   "Hours": 6.1,
+   "Steps": 647
+ },
+ {
+   "Date": "2017-12-13",
+   "heart_rate_bpm": null,
+   "Hours": 4.52,
+   "Steps": 4011
+ },
+ {
+   "Date": "2017-12-14",
+   "heart_rate_bpm": null,
+   "Hours": 0.24,
+   "Steps": 3729
+ },
+ {
+   "Date": "2017-12-15",
+   "heart_rate_bpm": null,
+   "Hours": 7.19,
+   "Steps": 824
+ },
+ {
+   "Date": "2017-12-16",
+   "heart_rate_bpm": null,
+   "Hours": 6.16,
+   "Steps": 2610
+ },
+ {
+   "Date": "2017-12-18",
+   "heart_rate_bpm": null,
+   "Hours": 6.73,
+   "Steps": 446
+ },
+ {
+   "Date": "2017-12-19",
+   "heart_rate_bpm": null,
+   "Hours": 5.62,
+   "Steps": 574
+ },
+ {
+   "Date": "2017-12-20",
+   "heart_rate_bpm": null,
+   "Hours": 5.27,
+   "Steps": 1487
+ },
+ {
+   "Date": "2017-12-21",
+   "heart_rate_bpm": null,
+   "Hours": 3.97,
+   "Steps": 1655
+ },
+ {
+   "Date": "2017-12-22",
+   "heart_rate_bpm": null,
+   "Hours": 6.14,
+   "Steps": 792
+ },
+ {
+   "Date": "2017-12-23",
+   "heart_rate_bpm": null,
+   "Hours": 6.24,
+   "Steps": 2043
+ },
+ {
+   "Date": "2017-12-25",
+   "heart_rate_bpm": null,
+   "Hours": 6.62,
+   "Steps": 4374
+ },
+ {
+   "Date": "2017-12-26",
+   "heart_rate_bpm": null,
+   "Hours": 6.54,
+   "Steps": 1201
+ },
+ {
+   "Date": "2017-12-27",
+   "heart_rate_bpm": null,
+   "Hours": 6.45,
+   "Steps": 432
+ },
+ {
+   "Date": "2017-12-28",
+   "heart_rate_bpm": null,
+   "Hours": 7.01,
+   "Steps": 1546
+ },
+ {
+   "Date": "2017-12-29",
+   "heart_rate_bpm": null,
+   "Hours": 0,
+   "Steps": 1270
+ },
+ {
+   "Date": "2017-12-30",
+   "heart_rate_bpm": null,
+   "Hours": 6.96,
+   "Steps": 405
+ },
+ {
+   "Date": "2018-01-01",
+   "heart_rate_bpm": null,
+   "Hours": 3.59,
+   "Steps": 1525
+ },
+ {
+   "Date": "2018-01-02",
+   "heart_rate_bpm": null,
+   "Hours": 7.42,
+   "Steps": 268
+ },
+ {
+   "Date": "2018-01-03",
+   "heart_rate_bpm": null,
+   "Hours": 5,
+   "Steps": 141
+ },
+ {
+   "Date": "2018-01-04",
+   "heart_rate_bpm": null,
+   "Hours": 0.13,
+   "Steps": 1804
+ },
+ {
+   "Date": "2018-01-05",
+   "heart_rate_bpm": null,
+   "Hours": 6.42,
+   "Steps": 3919
+ },
+ {
+   "Date": "2018-01-06",
+   "heart_rate_bpm": null,
+   "Hours": 5.09,
+   "Steps": 870
+ },
+ {
+   "Date": "2018-01-08",
+   "heart_rate_bpm": null,
+   "Hours": 7.26,
+   "Steps": 4216
+ },
+ {
+   "Date": "2018-01-09",
+   "heart_rate_bpm": null,
+   "Hours": 5.29,
+   "Steps": 10120
+ },
+ {
+   "Date": "2018-01-10",
+   "heart_rate_bpm": null,
+   "Hours": 6.11,
+   "Steps": 2545
+ },
+ {
+   "Date": "2018-01-11",
+   "heart_rate_bpm": null,
+   "Hours": 5.51,
+   "Steps": 2827
+ },
+ {
+   "Date": "2018-01-12",
+   "heart_rate_bpm": null,
+   "Hours": 4.23,
+   "Steps": 655
+ },
+ {
+   "Date": "2018-01-13",
+   "heart_rate_bpm": null,
+   "Hours": 6.67,
+   "Steps": 1175
+ },
+ {
+   "Date": "2018-01-15",
+   "heart_rate_bpm": null,
+   "Hours": 3.46,
+   "Steps": 3111
+ },
+ {
+   "Date": "2018-01-16",
+   "heart_rate_bpm": null,
+   "Hours": 7.07,
+   "Steps": 2846
+ },
+ {
+   "Date": "2018-01-17",
+   "heart_rate_bpm": null,
+   "Hours": 4.07,
+   "Steps": 1559
+ },
+ {
+   "Date": "2018-01-18",
+   "heart_rate_bpm": null,
+   "Hours": 8.88,
+   "Steps": 2303
+ },
+ {
+   "Date": "2018-01-22",
+   "heart_rate_bpm": null,
+   "Hours": 5.8,
+   "Steps": 3207
+ },
+ {
+   "Date": "2018-01-23",
+   "heart_rate_bpm": null,
+   "Hours": 7.17,
+   "Steps": 3854
+ },
+ {
+   "Date": "2018-01-24",
+   "heart_rate_bpm": null,
+   "Hours": 7.17,
+   "Steps": 2888
+ },
+ {
+   "Date": "2018-01-25",
+   "heart_rate_bpm": null,
+   "Hours": 5.93,
+   "Steps": 1861
+ },
+ {
+   "Date": "2018-01-26",
+   "heart_rate_bpm": null,
+   "Hours": 7.46,
+   "Steps": 3173
+ },
+ {
+   "Date": "2018-01-29",
+   "heart_rate_bpm": null,
+   "Hours": 6.67,
+   "Steps": 2501
+ },
+ {
+   "Date": "2018-01-30",
+   "heart_rate_bpm": null,
+   "Hours": 6.49,
+   "Steps": 2292
+ },
+ {
+   "Date": "2018-01-31",
+   "heart_rate_bpm": null,
+   "Hours": 8.68,
+   "Steps": 4747
+ },
+ {
+   "Date": "2018-02-01",
+   "heart_rate_bpm": null,
+   "Hours": 3.62,
+   "Steps": 2245
+ },
+ {
+   "Date": "2018-02-02",
+   "heart_rate_bpm": null,
+   "Hours": 5.75,
+   "Steps": 1781
+ },
+ {
+   "Date": "2018-02-05",
+   "heart_rate_bpm": null,
+   "Hours": 7.48,
+   "Steps": 2940
+ },
+ {
+   "Date": "2018-02-06",
+   "heart_rate_bpm": null,
+   "Hours": 7.03,
+   "Steps": 4023
+ },
+ {
+   "Date": "2018-02-07",
+   "heart_rate_bpm": null,
+   "Hours": 5.15,
+   "Steps": 3584
+ },
+ {
+   "Date": "2018-02-08",
+   "heart_rate_bpm": null,
+   "Hours": 7.37,
+   "Steps": 3679
+ },
+ {
+   "Date": "2018-02-09",
+   "heart_rate_bpm": null,
+   "Hours": 7.42,
+   "Steps": 4594
+ },
+ {
+   "Date": "2018-02-10",
+   "heart_rate_bpm": null,
+   "Hours": 7.16,
+   "Steps": 484
+ },
+ {
+   "Date": "2018-02-12",
+   "heart_rate_bpm": null,
+   "Hours": 6.26,
+   "Steps": 3147
+ },
+ {
+   "Date": "2018-02-13",
+   "heart_rate_bpm": null,
+   "Hours": 6.12,
+   "Steps": 3562
+ },
+ {
+   "Date": "2018-02-14",
+   "heart_rate_bpm": null,
+   "Hours": 5.44,
+   "Steps": 3690
+ },
+ {
+   "Date": "2018-02-15",
+   "heart_rate_bpm": null,
+   "Hours": 1.08,
+   "Steps": 2991
+ },
+ {
+   "Date": "2018-02-16",
+   "heart_rate_bpm": null,
+   "Hours": 7.43,
+   "Steps": 4456
+ },
+ {
+   "Date": "2018-02-17",
+   "heart_rate_bpm": null,
+   "Hours": 7.17,
+   "Steps": 3653
+ },
+ {
+   "Date": "2018-02-19",
+   "heart_rate_bpm": null,
+   "Hours": 7.33,
+   "Steps": 3831
+ },
+ {
+   "Date": "2018-02-20",
+   "heart_rate_bpm": null,
+   "Hours": 6.5,
+   "Steps": 1749
+ },
+ {
+   "Date": "2018-02-21",
+   "heart_rate_bpm": null,
+   "Hours": 7.12,
+   "Steps": 3655
+ },
+ {
+   "Date": "2018-02-22",
+   "heart_rate_bpm": null,
+   "Hours": 7.47,
+   "Steps": 3516
+ },
+ {
+   "Date": "2018-02-23",
+   "heart_rate_bpm": null,
+   "Hours": 4.25,
+   "Steps": 3015
+ },
+ {
+   "Date": "2018-02-24",
+   "heart_rate_bpm": null,
+   "Hours": 0.08,
+   "Steps": 3217
+ },
+ {
+   "Date": "2018-02-26",
+   "heart_rate_bpm": null,
+   "Hours": 0.33,
+   "Steps": 3474
+ },
+ {
+   "Date": "2018-02-27",
+   "heart_rate_bpm": null,
+   "Hours": 7.28,
+   "Steps": 2728
+ },
+ {
+   "Date": "2018-02-28",
+   "heart_rate_bpm": null,
+   "Hours": 1.22,
+   "Steps": 2216
+ },
+ {
+   "Date": "2018-03-01",
+   "heart_rate_bpm": null,
+   "Hours": 7.16,
+   "Steps": 525
+ },
+ {
+   "Date": "2018-03-02",
+   "heart_rate_bpm": null,
+   "Hours": 5.14,
+   "Steps": 4161
+ },
+ {
+   "Date": "2018-03-03",
+   "heart_rate_bpm": null,
+   "Hours": 7,
+   "Steps": 9486
+ },
+ {
+   "Date": "2018-03-05",
+   "heart_rate_bpm": null,
+   "Hours": 6.94,
+   "Steps": 5624
+ },
+ {
+   "Date": "2018-03-06",
+   "heart_rate_bpm": null,
+   "Hours": 7.56,
+   "Steps": 3111
+ },
+ {
+   "Date": "2018-03-07",
+   "heart_rate_bpm": null,
+   "Hours": 7.5,
+   "Steps": 3955
+ },
+ {
+   "Date": "2018-03-08",
+   "heart_rate_bpm": null,
+   "Hours": 7.1,
+   "Steps": 5256
+ },
+ {
+   "Date": "2018-03-09",
+   "heart_rate_bpm": null,
+   "Hours": 7,
+   "Steps": 6890
+ },
+ {
+   "Date": "2018-03-10",
+   "heart_rate_bpm": null,
+   "Hours": 7.87,
+   "Steps": 3687
+ },
+ {
+   "Date": "2018-03-12",
+   "heart_rate_bpm": null,
+   "Hours": 6.78,
+   "Steps": 605
+ },
+ {
+   "Date": "2018-03-13",
+   "heart_rate_bpm": null,
+   "Hours": 1.76,
+   "Steps": 1759
+ },
+ {
+   "Date": "2018-03-14",
+   "heart_rate_bpm": null,
+   "Hours": 6.99,
+   "Steps": 1694
+ },
+ {
+   "Date": "2018-03-15",
+   "heart_rate_bpm": null,
+   "Hours": 7.37,
+   "Steps": 2627
+ },
+ {
+   "Date": "2018-03-16",
+   "heart_rate_bpm": null,
+   "Hours": 1.84,
+   "Steps": 1560
+ },
+ {
+   "Date": "2018-03-17",
+   "heart_rate_bpm": null,
+   "Hours": 6.98,
+   "Steps": 941
+ },
+ {
+   "Date": "2018-03-19",
+   "heart_rate_bpm": null,
+   "Hours": 7.55,
+   "Steps": 2967
+ },
+ {
+   "Date": "2018-03-20",
+   "heart_rate_bpm": null,
+   "Hours": 13.82,
+   "Steps": 2506
+ },
+ {
+   "Date": "2018-03-21",
+   "heart_rate_bpm": null,
+   "Hours": 6.86,
+   "Steps": 3006
+ },
+ {
+   "Date": "2018-03-23",
+   "heart_rate_bpm": null,
+   "Hours": 7.3,
+   "Steps": 3688
+ },
+ {
+   "Date": "2018-03-24",
+   "heart_rate_bpm": null,
+   "Hours": 7.08,
+   "Steps": 3237
+ },
+ {
+   "Date": "2018-03-26",
+   "heart_rate_bpm": null,
+   "Hours": 7.46,
+   "Steps": 4517
+ },
+ {
+   "Date": "2018-03-27",
+   "heart_rate_bpm": null,
+   "Hours": 6.35,
+   "Steps": 3125
+ },
+ {
+   "Date": "2018-03-28",
+   "heart_rate_bpm": null,
+   "Hours": 7.31,
+   "Steps": 5063
+ },
+ {
+   "Date": "2018-03-29",
+   "heart_rate_bpm": null,
+   "Hours": 3.68,
+   "Steps": 4519
+ },
+ {
+   "Date": "2018-03-30",
+   "heart_rate_bpm": null,
+   "Hours": 7.81,
+   "Steps": 625
+ },
+ {
+   "Date": "2018-03-31",
+   "heart_rate_bpm": null,
+   "Hours": 6.83,
+   "Steps": 761
+ },
+ {
+   "Date": "2018-04-03",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 3374
+ },
+ {
+   "Date": "2018-04-04",
+   "heart_rate_bpm": null,
+   "Hours": 7.19,
+   "Steps": 2087
+ },
+ {
+   "Date": "2018-04-05",
+   "heart_rate_bpm": null,
+   "Hours": 7,
+   "Steps": 3466
+ },
+ {
+   "Date": "2018-04-06",
+   "heart_rate_bpm": null,
+   "Hours": 6.9,
+   "Steps": 5180
+ },
+ {
+   "Date": "2018-04-07",
+   "heart_rate_bpm": null,
+   "Hours": 7.52,
+   "Steps": 1147
+ },
+ {
+   "Date": "2018-04-09",
+   "heart_rate_bpm": null,
+   "Hours": 7.42,
+   "Steps": 2916
+ },
+ {
+   "Date": "2018-04-10",
+   "heart_rate_bpm": null,
+   "Hours": 0.63,
+   "Steps": 4315
+ },
+ {
+   "Date": "2018-04-11",
+   "heart_rate_bpm": null,
+   "Hours": 6.71,
+   "Steps": 3884
+ },
+ {
+   "Date": "2018-04-12",
+   "heart_rate_bpm": null,
+   "Hours": 6.46,
+   "Steps": 5463
+ },
+ {
+   "Date": "2018-04-13",
+   "heart_rate_bpm": null,
+   "Hours": 7.32,
+   "Steps": 2880
+ },
+ {
+   "Date": "2018-04-14",
+   "heart_rate_bpm": null,
+   "Hours": 1.96,
+   "Steps": 6212
+ },
+ {
+   "Date": "2018-04-16",
+   "heart_rate_bpm": null,
+   "Hours": 7.14,
+   "Steps": 10736
+ },
+ {
+   "Date": "2018-07-27",
+   "heart_rate_bpm": null,
+   "Hours": 8.04,
+   "Steps": 3147
+ },
+ {
+   "Date": "2018-07-30",
+   "heart_rate_bpm": null,
+   "Hours": 4.89,
+   "Steps": 1615
+ },
+ {
+   "Date": "2018-07-31",
+   "heart_rate_bpm": null,
+   "Hours": 7.2,
+   "Steps": 2166
+ },
+ {
+   "Date": "2018-08-01",
+   "heart_rate_bpm": null,
+   "Hours": 3.66,
+   "Steps": 2818
+ },
+ {
+   "Date": "2018-08-02",
+   "heart_rate_bpm": null,
+   "Hours": 8.93,
+   "Steps": 2189
+ },
+ {
+   "Date": "2018-08-03",
+   "heart_rate_bpm": null,
+   "Hours": 8.86,
+   "Steps": 2143
+ },
+ {
+   "Date": "2018-08-06",
+   "heart_rate_bpm": null,
+   "Hours": 8.52,
+   "Steps": 1925
+ },
+ {
+   "Date": "2018-08-07",
+   "heart_rate_bpm": null,
+   "Hours": 8.66,
+   "Steps": 208
+ },
+ {
+   "Date": "2018-08-28",
+   "heart_rate_bpm": null,
+   "Hours": 6.6,
+   "Steps": 3198
+ },
+ {
+   "Date": "2018-08-29",
+   "heart_rate_bpm": null,
+   "Hours": 6.36,
+   "Steps": 2650
+ },
+ {
+   "Date": "2018-08-30",
+   "heart_rate_bpm": null,
+   "Hours": 7.79,
+   "Steps": 2108
+ },
+ {
+   "Date": "2018-08-31",
+   "heart_rate_bpm": null,
+   "Hours": 7.99,
+   "Steps": 1857
+ },
+ {
+   "Date": "2018-09-03",
+   "heart_rate_bpm": null,
+   "Hours": 6.66,
+   "Steps": 1868
+ },
+ {
+   "Date": "2018-09-04",
+   "heart_rate_bpm": null,
+   "Hours": 7.14,
+   "Steps": 4390
+ },
+ {
+   "Date": "2018-09-05",
+   "heart_rate_bpm": null,
+   "Hours": 6.63,
+   "Steps": 2500
+ },
+ {
+   "Date": "2018-09-06",
+   "heart_rate_bpm": null,
+   "Hours": 1.75,
+   "Steps": 2385
+ },
+ {
+   "Date": "2018-09-07",
+   "heart_rate_bpm": null,
+   "Hours": 7.48,
+   "Steps": 1456
+ },
+ {
+   "Date": "2018-09-10",
+   "heart_rate_bpm": null,
+   "Hours": 6.53,
+   "Steps": 30
+ },
+ {
+   "Date": "2018-09-11",
+   "heart_rate_bpm": null,
+   "Hours": 6.77,
+   "Steps": 2036
+ },
+ {
+   "Date": "2018-09-12",
+   "heart_rate_bpm": null,
+   "Hours": 7.13,
+   "Steps": 73
+ },
+ {
+   "Date": "2018-09-13",
+   "heart_rate_bpm": null,
+   "Hours": 6.02,
+   "Steps": 755
+ },
+ {
+   "Date": "2018-09-14",
+   "heart_rate_bpm": null,
+   "Hours": 8.18,
+   "Steps": 1351
+ },
+ {
+   "Date": "2018-09-17",
+   "heart_rate_bpm": null,
+   "Hours": 4.86,
+   "Steps": 1847
+ },
+ {
+   "Date": "2018-09-18",
+   "heart_rate_bpm": null,
+   "Hours": 7.34,
+   "Steps": 212
+ },
+ {
+   "Date": "2018-09-19",
+   "heart_rate_bpm": null,
+   "Hours": 6.66,
+   "Steps": 1392
+ },
+ {
+   "Date": "2018-09-20",
+   "heart_rate_bpm": null,
+   "Hours": 7.35,
+   "Steps": 1566
+ },
+ {
+   "Date": "2018-09-21",
+   "heart_rate_bpm": null,
+   "Hours": 6.82,
+   "Steps": 308
+ },
+ {
+   "Date": "2018-09-24",
+   "heart_rate_bpm": null,
+   "Hours": 7.58,
+   "Steps": 1861
+ },
+ {
+   "Date": "2018-09-25",
+   "heart_rate_bpm": null,
+   "Hours": 7.11,
+   "Steps": 2671
+ },
+ {
+   "Date": "2018-09-26",
+   "heart_rate_bpm": null,
+   "Hours": 7.42,
+   "Steps": 1928
+ },
+ {
+   "Date": "2018-09-27",
+   "heart_rate_bpm": null,
+   "Hours": 5.81,
+   "Steps": 2768
+ },
+ {
+   "Date": "2018-09-28",
+   "heart_rate_bpm": null,
+   "Hours": 5.94,
+   "Steps": 1551
+ },
+ {
+   "Date": "2018-10-01",
+   "heart_rate_bpm": null,
+   "Hours": 7.51,
+   "Steps": 2843
+ },
+ {
+   "Date": "2018-10-02",
+   "heart_rate_bpm": null,
+   "Hours": 7.19,
+   "Steps": 53
+ },
+ {
+   "Date": "2018-10-03",
+   "heart_rate_bpm": null,
+   "Hours": 6.13,
+   "Steps": 1778
+ },
+ {
+   "Date": "2018-10-05",
+   "heart_rate_bpm": null,
+   "Hours": 7.15,
+   "Steps": 2076
+ },
+ {
+   "Date": "2018-10-08",
+   "heart_rate_bpm": null,
+   "Hours": 2.46,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-09",
+   "heart_rate_bpm": null,
+   "Hours": 6.06,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-10",
+   "heart_rate_bpm": null,
+   "Hours": 14.69,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-11",
+   "heart_rate_bpm": null,
+   "Hours": 5.91,
+   "Steps": 10490
+ },
+ {
+   "Date": "2018-10-12",
+   "heart_rate_bpm": null,
+   "Hours": 11.12,
+   "Steps": 5264
+ },
+ {
+   "Date": "2018-10-15",
+   "heart_rate_bpm": null,
+   "Hours": 7.49,
+   "Steps": 249
+ },
+ {
+   "Date": "2018-10-16",
+   "heart_rate_bpm": null,
+   "Hours": 6.81,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-17",
+   "heart_rate_bpm": null,
+   "Hours": 1.11,
+   "Steps": 9555
+ },
+ {
+   "Date": "2018-10-18",
+   "heart_rate_bpm": null,
+   "Hours": 7.14,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-19",
+   "heart_rate_bpm": null,
+   "Hours": 7.18,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-22",
+   "heart_rate_bpm": null,
+   "Hours": 6.79,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-23",
+   "heart_rate_bpm": null,
+   "Hours": 7.17,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-24",
+   "heart_rate_bpm": null,
+   "Hours": 7.33,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-25",
+   "heart_rate_bpm": null,
+   "Hours": 7.1,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-26",
+   "heart_rate_bpm": null,
+   "Hours": 0.36,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-29",
+   "heart_rate_bpm": null,
+   "Hours": 1,
+   "Steps": 442
+ },
+ {
+   "Date": "2018-10-30",
+   "heart_rate_bpm": null,
+   "Hours": 7.14,
+   "Steps": null
+ },
+ {
+   "Date": "2018-10-31",
+   "heart_rate_bpm": null,
+   "Hours": 6.14,
+   "Steps": null
+ },
+ {
+   "Date": "2018-11-01",
+   "heart_rate_bpm": null,
+   "Hours": 5.94,
+   "Steps": null
+ },
+ {
+   "Date": "2018-11-02",
+   "heart_rate_bpm": null,
+   "Hours": 1.13,
+   "Steps": null
+ },
+ {
+   "Date": "2018-11-05",
+   "heart_rate_bpm": null,
+   "Hours": 1.55,
+   "Steps": null
+ },
+ {
+   "Date": "2018-11-06",
+   "heart_rate_bpm": null,
+   "Hours": 2.92,
+   "Steps": null
+ },
+ {
+   "Date": "2018-11-07",
+   "heart_rate_bpm": null,
+   "Hours": 7.16,
+   "Steps": null
+ },
+ {
+   "Date": "2020-10-04",
+   "heart_rate_bpm": null,
+   "Hours": 1.25,
+   "Steps": 3359
+ },
+ {
+   "Date": "2021-03-10",
+   "heart_rate_bpm": null,
+   "Hours": 0.01,
+   "Steps": 4357
+ },
+ {
+   "Date": "2021-03-11",
+   "heart_rate_bpm": null,
+   "Hours": 0,
+   "Steps": 5075
+ },
+ {
+   "Date": "2021-03-12",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 373
+ },
+ {
+   "Date": "2021-03-15",
+   "heart_rate_bpm": null,
+   "Hours": 8.01,
+   "Steps": 367
+ },
+ {
+   "Date": "2021-03-16",
+   "heart_rate_bpm": null,
+   "Hours": 7.85,
+   "Steps": 5346
+ },
+ {
+   "Date": "2021-03-17",
+   "heart_rate_bpm": null,
+   "Hours": 7.83,
+   "Steps": 2565
+ },
+ {
+   "Date": "2021-03-26",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 1113
+ },
+ {
+   "Date": "2021-03-29",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 1912
+ },
+ {
+   "Date": "2021-03-30",
+   "heart_rate_bpm": null,
+   "Hours": 8.01,
+   "Steps": 977
+ },
+ {
+   "Date": "2021-03-31",
+   "heart_rate_bpm": null,
+   "Hours": 5.94,
+   "Steps": 392
+ },
+ {
+   "Date": "2021-04-01",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 210
+ },
+ {
+   "Date": "2021-04-02",
+   "heart_rate_bpm": null,
+   "Hours": 1.54,
+   "Steps": 1476
+ },
+ {
+   "Date": "2021-04-05",
+   "heart_rate_bpm": null,
+   "Hours": 3.75,
+   "Steps": 201
+ },
+ {
+   "Date": "2021-04-06",
+   "heart_rate_bpm": null,
+   "Hours": 6.88,
+   "Steps": 1778
+ },
+ {
+   "Date": "2021-04-07",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 550
+ },
+ {
+   "Date": "2021-04-08",
+   "heart_rate_bpm": null,
+   "Hours": 7.31,
+   "Steps": 158
+ },
+ {
+   "Date": "2021-04-09",
+   "heart_rate_bpm": null,
+   "Hours": 8.01,
+   "Steps": 1183
+ },
+ {
+   "Date": "2021-04-12",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 167
+ },
+ {
+   "Date": "2021-04-13",
+   "heart_rate_bpm": null,
+   "Hours": 7.05,
+   "Steps": 1320
+ },
+ {
+   "Date": "2021-04-14",
+   "heart_rate_bpm": null,
+   "Hours": 7.7,
+   "Steps": 3839
+ },
+ {
+   "Date": "2021-04-19",
+   "heart_rate_bpm": null,
+   "Hours": 6,
+   "Steps": 273
+ },
+ {
+   "Date": "2021-04-22",
+   "heart_rate_bpm": null,
+   "Hours": 7.95,
+   "Steps": 234
+ },
+ {
+   "Date": "2021-04-23",
+   "heart_rate_bpm": null,
+   "Hours": 1.16,
+   "Steps": 4888
+ },
+ {
+   "Date": "2021-04-26",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 193
+ },
+ {
+   "Date": "2021-04-28",
+   "heart_rate_bpm": null,
+   "Hours": 0.57,
+   "Steps": 374
+ },
+ {
+   "Date": "2021-04-29",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 697
+ },
+ {
+   "Date": "2021-04-30",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 84
+ },
+ {
+   "Date": "2021-05-03",
+   "heart_rate_bpm": null,
+   "Hours": 7.52,
+   "Steps": 339
+ },
+ {
+   "Date": "2021-05-04",
+   "heart_rate_bpm": null,
+   "Hours": 2.93,
+   "Steps": 143
+ },
+ {
+   "Date": "2021-05-06",
+   "heart_rate_bpm": null,
+   "Hours": 7.81,
+   "Steps": 366
+ },
+ {
+   "Date": "2021-05-07",
+   "heart_rate_bpm": null,
+   "Hours": 8,
+   "Steps": 1133
+ },
+ {
+   "Date": "2021-05-10",
+   "heart_rate_bpm": null,
+   "Hours": 7.41,
+   "Steps": 2950
+ },
+ {
+   "Date": "2021-05-12",
+   "heart_rate_bpm": null,
+   "Hours": 7.26,
+   "Steps": 188
+ },
+ {
+   "Date": "2021-05-13",
+   "heart_rate_bpm": null,
+   "Hours": 8.02,
+   "Steps": 347
+ },
+ {
+   "Date": "2017-10-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 118
+ },
+ {
+   "Date": "2017-10-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3309
+ },
+ {
+   "Date": "2017-10-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3273
+ },
+ {
+   "Date": "2017-10-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1618
+ },
+ {
+   "Date": "2017-11-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 10614
+ },
+ {
+   "Date": "2017-11-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1978
+ },
+ {
+   "Date": "2017-11-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4700
+ },
+ {
+   "Date": "2017-11-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5511
+ },
+ {
+   "Date": "2017-11-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3568
+ },
+ {
+   "Date": "2017-11-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3492
+ },
+ {
+   "Date": "2017-11-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4211
+ },
+ {
+   "Date": "2017-11-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 227
+ },
+ {
+   "Date": "2017-11-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2345
+ },
+ {
+   "Date": "2017-11-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2068
+ },
+ {
+   "Date": "2017-12-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6317
+ },
+ {
+   "Date": "2017-12-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2494
+ },
+ {
+   "Date": "2018-01-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6540
+ },
+ {
+   "Date": "2018-01-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4937
+ },
+ {
+   "Date": "2017-12-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1148
+ },
+ {
+   "Date": "2017-12-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 575
+ },
+ {
+   "Date": "2018-01-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 943
+ },
+ {
+   "Date": "2018-01-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1132
+ },
+ {
+   "Date": "2018-01-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2806
+ },
+ {
+   "Date": "2018-01-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 452
+ },
+ {
+   "Date": "2018-01-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5085
+ },
+ {
+   "Date": "2017-12-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 505
+ },
+ {
+   "Date": "2017-12-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 350
+ },
+ {
+   "Date": "2018-02-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1310
+ },
+ {
+   "Date": "2018-02-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 47
+ },
+ {
+   "Date": "2018-02-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 706
+ },
+ {
+   "Date": "2018-02-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1076
+ },
+ {
+   "Date": "2018-02-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1802
+ },
+ {
+   "Date": "2018-03-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 47
+ },
+ {
+   "Date": "2018-03-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 50
+ },
+ {
+   "Date": "2018-03-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1314
+ },
+ {
+   "Date": "2018-03-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3790
+ },
+ {
+   "Date": "2018-03-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1627
+ },
+ {
+   "Date": "2018-04-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1674
+ },
+ {
+   "Date": "2018-04-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3505
+ },
+ {
+   "Date": "2018-04-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 615
+ },
+ {
+   "Date": "2018-04-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7447
+ },
+ {
+   "Date": "2018-04-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3748
+ },
+ {
+   "Date": "2018-04-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 14254
+ },
+ {
+   "Date": "2018-04-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4800
+ },
+ {
+   "Date": "2018-04-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7148
+ },
+ {
+   "Date": "2018-04-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5345
+ },
+ {
+   "Date": "2018-04-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6011
+ },
+ {
+   "Date": "2018-04-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4381
+ },
+ {
+   "Date": "2018-05-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4741
+ },
+ {
+   "Date": "2018-05-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4543
+ },
+ {
+   "Date": "2018-05-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7375
+ },
+ {
+   "Date": "2018-05-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4643
+ },
+ {
+   "Date": "2018-05-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 12311
+ },
+ {
+   "Date": "2018-04-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4358
+ },
+ {
+   "Date": "2018-04-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1552
+ },
+ {
+   "Date": "2018-04-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2715
+ },
+ {
+   "Date": "2018-04-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3435
+ },
+ {
+   "Date": "2018-04-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 689
+ },
+ {
+   "Date": "2018-04-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1316
+ },
+ {
+   "Date": "2018-04-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5946
+ },
+ {
+   "Date": "2018-05-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 769
+ },
+ {
+   "Date": "2018-05-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2623
+ },
+ {
+   "Date": "2018-05-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3991
+ },
+ {
+   "Date": "2018-05-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4473
+ },
+ {
+   "Date": "2018-05-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5121
+ },
+ {
+   "Date": "2018-05-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1776
+ },
+ {
+   "Date": "2018-05-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4413
+ },
+ {
+   "Date": "2018-05-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3628
+ },
+ {
+   "Date": "2018-05-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2718
+ },
+ {
+   "Date": "2018-05-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3163
+ },
+ {
+   "Date": "2018-05-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5477
+ },
+ {
+   "Date": "2018-05-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 327
+ },
+ {
+   "Date": "2018-05-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2705
+ },
+ {
+   "Date": "2018-05-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2250
+ },
+ {
+   "Date": "2018-05-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 597
+ },
+ {
+   "Date": "2018-05-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3779
+ },
+ {
+   "Date": "2018-05-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2291
+ },
+ {
+   "Date": "2018-05-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1936
+ },
+ {
+   "Date": "2018-05-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 304
+ },
+ {
+   "Date": "2018-05-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1349
+ },
+ {
+   "Date": "2018-05-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2644
+ },
+ {
+   "Date": "2018-05-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2403
+ },
+ {
+   "Date": "2018-05-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1616
+ },
+ {
+   "Date": "2018-05-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 281
+ },
+ {
+   "Date": "2018-05-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1403
+ },
+ {
+   "Date": "2018-05-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2907
+ },
+ {
+   "Date": "2018-06-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1204
+ },
+ {
+   "Date": "2018-06-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 25
+ },
+ {
+   "Date": "2018-06-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 627
+ },
+ {
+   "Date": "2018-06-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1683
+ },
+ {
+   "Date": "2018-06-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 993
+ },
+ {
+   "Date": "2018-06-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1264
+ },
+ {
+   "Date": "2018-06-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 905
+ },
+ {
+   "Date": "2018-06-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 585
+ },
+ {
+   "Date": "2018-06-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 850
+ },
+ {
+   "Date": "2018-06-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1107
+ },
+ {
+   "Date": "2018-06-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3036
+ },
+ {
+   "Date": "2018-06-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 281
+ },
+ {
+   "Date": "2018-06-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 448
+ },
+ {
+   "Date": "2018-06-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2157
+ },
+ {
+   "Date": "2018-06-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 300
+ },
+ {
+   "Date": "2018-06-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 180
+ },
+ {
+   "Date": "2018-06-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1542
+ },
+ {
+   "Date": "2018-06-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5949
+ },
+ {
+   "Date": "2018-06-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1148
+ },
+ {
+   "Date": "2018-06-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1316
+ },
+ {
+   "Date": "2018-06-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 854
+ },
+ {
+   "Date": "2018-06-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1535
+ },
+ {
+   "Date": "2018-06-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3738
+ },
+ {
+   "Date": "2018-06-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1282
+ },
+ {
+   "Date": "2018-06-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6747
+ },
+ {
+   "Date": "2018-06-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 184
+ },
+ {
+   "Date": "2018-06-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1535
+ },
+ {
+   "Date": "2018-06-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1095
+ },
+ {
+   "Date": "2018-06-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 344
+ },
+ {
+   "Date": "2018-07-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2038
+ },
+ {
+   "Date": "2018-07-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1328
+ },
+ {
+   "Date": "2018-07-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 439
+ },
+ {
+   "Date": "2018-07-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5201
+ },
+ {
+   "Date": "2018-07-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1335
+ },
+ {
+   "Date": "2018-07-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2228
+ },
+ {
+   "Date": "2018-07-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2545
+ },
+ {
+   "Date": "2018-07-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2041
+ },
+ {
+   "Date": "2018-07-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1681
+ },
+ {
+   "Date": "2018-07-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3224
+ },
+ {
+   "Date": "2018-07-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2570
+ },
+ {
+   "Date": "2018-07-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 922
+ },
+ {
+   "Date": "2018-07-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2059
+ },
+ {
+   "Date": "2018-07-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5760
+ },
+ {
+   "Date": "2018-07-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2942
+ },
+ {
+   "Date": "2018-07-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2042
+ },
+ {
+   "Date": "2018-07-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1764
+ },
+ {
+   "Date": "2018-07-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2053
+ },
+ {
+   "Date": "2018-07-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1955
+ },
+ {
+   "Date": "2018-07-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1617
+ },
+ {
+   "Date": "2018-07-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1191
+ },
+ {
+   "Date": "2018-07-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2368
+ },
+ {
+   "Date": "2018-07-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1797
+ },
+ {
+   "Date": "2018-07-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2138
+ },
+ {
+   "Date": "2018-07-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1489
+ },
+ {
+   "Date": "2018-07-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1851
+ },
+ {
+   "Date": "2018-07-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1308
+ },
+ {
+   "Date": "2018-07-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2287
+ },
+ {
+   "Date": "2018-08-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1412
+ },
+ {
+   "Date": "2018-08-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7149
+ },
+ {
+   "Date": "2018-08-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 40
+ },
+ {
+   "Date": "2018-08-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1620
+ },
+ {
+   "Date": "2018-08-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2806
+ },
+ {
+   "Date": "2018-08-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2372
+ },
+ {
+   "Date": "2018-08-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2379
+ },
+ {
+   "Date": "2018-08-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3311
+ },
+ {
+   "Date": "2018-08-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2439
+ },
+ {
+   "Date": "2018-08-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5323
+ },
+ {
+   "Date": "2018-08-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1805
+ },
+ {
+   "Date": "2018-08-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 248
+ },
+ {
+   "Date": "2018-08-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2936
+ },
+ {
+   "Date": "2018-08-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 10
+ },
+ {
+   "Date": "2018-08-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3507
+ },
+ {
+   "Date": "2018-08-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4434
+ },
+ {
+   "Date": "2018-06-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 10
+ },
+ {
+   "Date": "2018-08-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1416
+ },
+ {
+   "Date": "2018-08-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1615
+ },
+ {
+   "Date": "2018-08-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 966
+ },
+ {
+   "Date": "2018-08-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2869
+ },
+ {
+   "Date": "2018-08-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 530
+ },
+ {
+   "Date": "2018-08-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3261
+ },
+ {
+   "Date": "2018-09-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1317
+ },
+ {
+   "Date": "2018-09-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3896
+ },
+ {
+   "Date": "2018-09-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3946
+ },
+ {
+   "Date": "2018-09-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1839
+ },
+ {
+   "Date": "2018-09-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2249
+ },
+ {
+   "Date": "2018-09-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1355
+ },
+ {
+   "Date": "2018-09-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3075
+ },
+ {
+   "Date": "2018-09-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 231
+ },
+ {
+   "Date": "2018-09-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2220
+ },
+ {
+   "Date": "2018-09-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1289
+ },
+ {
+   "Date": "2018-10-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2554
+ },
+ {
+   "Date": "2018-10-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3785
+ },
+ {
+   "Date": "2018-10-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 120
+ },
+ {
+   "Date": "2018-10-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 212
+ },
+ {
+   "Date": "2018-10-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2946
+ },
+ {
+   "Date": "2018-10-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 65360
+ },
+ {
+   "Date": "2018-10-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 14513
+ },
+ {
+   "Date": "2018-11-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 36308
+ },
+ {
+   "Date": "2018-11-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7196
+ },
+ {
+   "Date": "2018-11-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 26270
+ },
+ {
+   "Date": "2018-11-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 67
+ },
+ {
+   "Date": "2018-11-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 22248
+ },
+ {
+   "Date": "2018-12-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 84
+ },
+ {
+   "Date": "2018-12-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 18881
+ },
+ {
+   "Date": "2018-12-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 324
+ },
+ {
+   "Date": "2018-12-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2016
+ },
+ {
+   "Date": "2018-12-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3565
+ },
+ {
+   "Date": "2018-12-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1885
+ },
+ {
+   "Date": "2018-12-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1151
+ },
+ {
+   "Date": "2018-12-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 721
+ },
+ {
+   "Date": "2018-12-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1582
+ },
+ {
+   "Date": "2018-12-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 775
+ },
+ {
+   "Date": "2018-12-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4263
+ },
+ {
+   "Date": "2018-12-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 494
+ },
+ {
+   "Date": "2018-12-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 510
+ },
+ {
+   "Date": "2018-12-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2588
+ },
+ {
+   "Date": "2018-12-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 43
+ },
+ {
+   "Date": "2018-12-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1619
+ },
+ {
+   "Date": "2018-12-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 992
+ },
+ {
+   "Date": "2018-12-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 44
+ },
+ {
+   "Date": "2018-12-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1270
+ },
+ {
+   "Date": "2018-12-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 800
+ },
+ {
+   "Date": "2018-12-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 721
+ },
+ {
+   "Date": "2018-12-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1725
+ },
+ {
+   "Date": "2018-12-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1021
+ },
+ {
+   "Date": "2018-12-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 409
+ },
+ {
+   "Date": "2019-01-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 80
+ },
+ {
+   "Date": "2019-01-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2082
+ },
+ {
+   "Date": "2019-01-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 29
+ },
+ {
+   "Date": "2019-01-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1406
+ },
+ {
+   "Date": "2019-01-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1439
+ },
+ {
+   "Date": "2019-01-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 809
+ },
+ {
+   "Date": "2019-01-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 657
+ },
+ {
+   "Date": "2019-01-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 848
+ },
+ {
+   "Date": "2019-01-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 578
+ },
+ {
+   "Date": "2019-01-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 36
+ },
+ {
+   "Date": "2019-01-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1251
+ },
+ {
+   "Date": "2019-01-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 258
+ },
+ {
+   "Date": "2019-01-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 520
+ },
+ {
+   "Date": "2019-01-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1965
+ },
+ {
+   "Date": "2019-01-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1573
+ },
+ {
+   "Date": "2019-01-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4314
+ },
+ {
+   "Date": "2019-01-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1065
+ },
+ {
+   "Date": "2019-01-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4007
+ },
+ {
+   "Date": "2019-01-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1296
+ },
+ {
+   "Date": "2019-01-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 515
+ },
+ {
+   "Date": "2019-01-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 633
+ },
+ {
+   "Date": "2019-01-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 229
+ },
+ {
+   "Date": "2019-01-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 34
+ },
+ {
+   "Date": "2019-01-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1373
+ },
+ {
+   "Date": "2019-01-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 378
+ },
+ {
+   "Date": "2019-01-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3315
+ },
+ {
+   "Date": "2019-01-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 468
+ },
+ {
+   "Date": "2019-01-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1827
+ },
+ {
+   "Date": "2019-01-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2237
+ },
+ {
+   "Date": "2019-01-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2136
+ },
+ {
+   "Date": "2019-01-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3611
+ },
+ {
+   "Date": "2019-02-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 995
+ },
+ {
+   "Date": "2019-02-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3071
+ },
+ {
+   "Date": "2019-02-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 417
+ },
+ {
+   "Date": "2019-02-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1586
+ },
+ {
+   "Date": "2019-02-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 139
+ },
+ {
+   "Date": "2019-02-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3230
+ },
+ {
+   "Date": "2019-02-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2260
+ },
+ {
+   "Date": "2019-02-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 683
+ },
+ {
+   "Date": "2019-02-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1431
+ },
+ {
+   "Date": "2019-02-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 401
+ },
+ {
+   "Date": "2019-02-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2918
+ },
+ {
+   "Date": "2019-02-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1726
+ },
+ {
+   "Date": "2019-02-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2241
+ },
+ {
+   "Date": "2019-02-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2670
+ },
+ {
+   "Date": "2019-02-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3634
+ },
+ {
+   "Date": "2019-02-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 764
+ },
+ {
+   "Date": "2019-02-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1950
+ },
+ {
+   "Date": "2019-02-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3464
+ },
+ {
+   "Date": "2019-02-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2664
+ },
+ {
+   "Date": "2019-02-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2473
+ },
+ {
+   "Date": "2019-02-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2230
+ },
+ {
+   "Date": "2019-02-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1311
+ },
+ {
+   "Date": "2019-02-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 676
+ },
+ {
+   "Date": "2019-02-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 583
+ },
+ {
+   "Date": "2019-02-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3984
+ },
+ {
+   "Date": "2019-02-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2697
+ },
+ {
+   "Date": "2019-02-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2268
+ },
+ {
+   "Date": "2019-02-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3524
+ },
+ {
+   "Date": "2019-03-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4467
+ },
+ {
+   "Date": "2019-03-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1688
+ },
+ {
+   "Date": "2019-03-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5168
+ },
+ {
+   "Date": "2019-03-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 620
+ },
+ {
+   "Date": "2019-03-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3800
+ },
+ {
+   "Date": "2019-03-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2504
+ },
+ {
+   "Date": "2019-03-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5497
+ },
+ {
+   "Date": "2019-03-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2153
+ },
+ {
+   "Date": "2019-03-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 423
+ },
+ {
+   "Date": "2019-03-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 555
+ },
+ {
+   "Date": "2019-03-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2778
+ },
+ {
+   "Date": "2019-03-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3372
+ },
+ {
+   "Date": "2019-03-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5612
+ },
+ {
+   "Date": "2019-03-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2270
+ },
+ {
+   "Date": "2019-03-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7985
+ },
+ {
+   "Date": "2019-03-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2563
+ },
+ {
+   "Date": "2019-03-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 648
+ },
+ {
+   "Date": "2019-03-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3774
+ },
+ {
+   "Date": "2019-03-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4838
+ },
+ {
+   "Date": "2019-03-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1684
+ },
+ {
+   "Date": "2019-03-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3037
+ },
+ {
+   "Date": "2019-03-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3623
+ },
+ {
+   "Date": "2019-03-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3021
+ },
+ {
+   "Date": "2019-03-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 65
+ },
+ {
+   "Date": "2019-03-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1451
+ },
+ {
+   "Date": "2019-03-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 617
+ },
+ {
+   "Date": "2019-03-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3985
+ },
+ {
+   "Date": "2019-03-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3379
+ },
+ {
+   "Date": "2019-03-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1829
+ },
+ {
+   "Date": "2019-03-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3397
+ },
+ {
+   "Date": "2019-03-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1738
+ },
+ {
+   "Date": "2019-04-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2185
+ },
+ {
+   "Date": "2019-04-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2182
+ },
+ {
+   "Date": "2019-04-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4500
+ },
+ {
+   "Date": "2019-04-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1398
+ },
+ {
+   "Date": "2019-04-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2677
+ },
+ {
+   "Date": "2019-04-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1062
+ },
+ {
+   "Date": "2019-04-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5904
+ },
+ {
+   "Date": "2019-04-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5237
+ },
+ {
+   "Date": "2019-04-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4597
+ },
+ {
+   "Date": "2019-04-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1867
+ },
+ {
+   "Date": "2019-04-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4548
+ },
+ {
+   "Date": "2019-04-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3726
+ },
+ {
+   "Date": "2019-04-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5413
+ },
+ {
+   "Date": "2019-04-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 551
+ },
+ {
+   "Date": "2019-04-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1572
+ },
+ {
+   "Date": "2019-04-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3063
+ },
+ {
+   "Date": "2019-04-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 714
+ },
+ {
+   "Date": "2019-04-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1850
+ },
+ {
+   "Date": "2019-04-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 974
+ },
+ {
+   "Date": "2019-04-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3649
+ },
+ {
+   "Date": "2019-04-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 827
+ },
+ {
+   "Date": "2019-04-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3272
+ },
+ {
+   "Date": "2019-04-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2724
+ },
+ {
+   "Date": "2019-04-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3370
+ },
+ {
+   "Date": "2019-04-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2434
+ },
+ {
+   "Date": "2019-04-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2562
+ },
+ {
+   "Date": "2019-04-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1750
+ },
+ {
+   "Date": "2019-04-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3007
+ },
+ {
+   "Date": "2019-04-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3479
+ },
+ {
+   "Date": "2019-04-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1971
+ },
+ {
+   "Date": "2019-05-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3276
+ },
+ {
+   "Date": "2019-05-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1596
+ },
+ {
+   "Date": "2019-05-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2199
+ },
+ {
+   "Date": "2019-05-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 79
+ },
+ {
+   "Date": "2019-05-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 651
+ },
+ {
+   "Date": "2019-05-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2227
+ },
+ {
+   "Date": "2019-05-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 225
+ },
+ {
+   "Date": "2019-05-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2497
+ },
+ {
+   "Date": "2019-05-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 788
+ },
+ {
+   "Date": "2019-05-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1250
+ },
+ {
+   "Date": "2019-05-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 503
+ },
+ {
+   "Date": "2019-05-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 13
+ },
+ {
+   "Date": "2019-05-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1933
+ },
+ {
+   "Date": "2019-05-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 530
+ },
+ {
+   "Date": "2019-05-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 607
+ },
+ {
+   "Date": "2019-05-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2850
+ },
+ {
+   "Date": "2019-05-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2957
+ },
+ {
+   "Date": "2019-05-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3450
+ },
+ {
+   "Date": "2019-05-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2545
+ },
+ {
+   "Date": "2019-05-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2726
+ },
+ {
+   "Date": "2019-05-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2561
+ },
+ {
+   "Date": "2019-05-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2879
+ },
+ {
+   "Date": "2019-05-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3166
+ },
+ {
+   "Date": "2019-05-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1377
+ },
+ {
+   "Date": "2019-05-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 61
+ },
+ {
+   "Date": "2019-05-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 571
+ },
+ {
+   "Date": "2019-05-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1471
+ },
+ {
+   "Date": "2019-05-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1748
+ },
+ {
+   "Date": "2019-05-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1490
+ },
+ {
+   "Date": "2019-05-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1153
+ },
+ {
+   "Date": "2019-05-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 632
+ },
+ {
+   "Date": "2019-06-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2192
+ },
+ {
+   "Date": "2019-06-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 637
+ },
+ {
+   "Date": "2019-06-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 703
+ },
+ {
+   "Date": "2019-06-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1300
+ },
+ {
+   "Date": "2019-06-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1647
+ },
+ {
+   "Date": "2019-06-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1483
+ },
+ {
+   "Date": "2019-06-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7585
+ },
+ {
+   "Date": "2019-06-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4126
+ },
+ {
+   "Date": "2019-06-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4794
+ },
+ {
+   "Date": "2019-06-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 459
+ },
+ {
+   "Date": "2019-06-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1465
+ },
+ {
+   "Date": "2019-06-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6805
+ },
+ {
+   "Date": "2019-06-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4418
+ },
+ {
+   "Date": "2019-06-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1029
+ },
+ {
+   "Date": "2019-06-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4737
+ },
+ {
+   "Date": "2019-06-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1941
+ },
+ {
+   "Date": "2019-06-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3444
+ },
+ {
+   "Date": "2019-06-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3989
+ },
+ {
+   "Date": "2019-06-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 944
+ },
+ {
+   "Date": "2019-06-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1509
+ },
+ {
+   "Date": "2019-06-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1007
+ },
+ {
+   "Date": "2019-06-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4178
+ },
+ {
+   "Date": "2019-06-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2248
+ },
+ {
+   "Date": "2019-06-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1758
+ },
+ {
+   "Date": "2019-06-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3375
+ },
+ {
+   "Date": "2019-06-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2594
+ },
+ {
+   "Date": "2019-07-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6017
+ },
+ {
+   "Date": "2019-07-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1127
+ },
+ {
+   "Date": "2019-07-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 935
+ },
+ {
+   "Date": "2019-07-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2248
+ },
+ {
+   "Date": "2019-07-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3931
+ },
+ {
+   "Date": "2019-07-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6519
+ },
+ {
+   "Date": "2019-07-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1988
+ },
+ {
+   "Date": "2019-07-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1769
+ },
+ {
+   "Date": "2019-07-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 539
+ },
+ {
+   "Date": "2019-07-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 743
+ },
+ {
+   "Date": "2019-07-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1962
+ },
+ {
+   "Date": "2019-07-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1794
+ },
+ {
+   "Date": "2019-07-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3209
+ },
+ {
+   "Date": "2019-07-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5930
+ },
+ {
+   "Date": "2019-07-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1189
+ },
+ {
+   "Date": "2019-07-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1801
+ },
+ {
+   "Date": "2019-07-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2656
+ },
+ {
+   "Date": "2019-07-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1849
+ },
+ {
+   "Date": "2019-07-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1508
+ },
+ {
+   "Date": "2019-07-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4262
+ },
+ {
+   "Date": "2019-07-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1011
+ },
+ {
+   "Date": "2019-07-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 501
+ },
+ {
+   "Date": "2019-07-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1299
+ },
+ {
+   "Date": "2019-07-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3366
+ },
+ {
+   "Date": "2019-07-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 930
+ },
+ {
+   "Date": "2019-07-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4026
+ },
+ {
+   "Date": "2019-07-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1067
+ },
+ {
+   "Date": "2019-07-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1557
+ },
+ {
+   "Date": "2019-07-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 8037
+ },
+ {
+   "Date": "2019-07-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 743
+ },
+ {
+   "Date": "2019-07-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2257
+ },
+ {
+   "Date": "2019-08-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4835
+ },
+ {
+   "Date": "2019-08-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2218
+ },
+ {
+   "Date": "2019-08-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1425
+ },
+ {
+   "Date": "2019-08-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 383
+ },
+ {
+   "Date": "2019-08-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3470
+ },
+ {
+   "Date": "2019-08-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5216
+ },
+ {
+   "Date": "2019-08-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2980
+ },
+ {
+   "Date": "2019-08-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 929
+ },
+ {
+   "Date": "2019-08-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 781
+ },
+ {
+   "Date": "2019-08-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 931
+ },
+ {
+   "Date": "2019-08-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2004
+ },
+ {
+   "Date": "2019-08-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1719
+ },
+ {
+   "Date": "2019-08-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1704
+ },
+ {
+   "Date": "2019-08-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1506
+ },
+ {
+   "Date": "2019-08-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3002
+ },
+ {
+   "Date": "2019-08-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2930
+ },
+ {
+   "Date": "2019-08-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1304
+ },
+ {
+   "Date": "2019-06-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 578
+ },
+ {
+   "Date": "2019-06-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3242
+ },
+ {
+   "Date": "2019-06-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2752
+ },
+ {
+   "Date": "2019-06-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2574
+ },
+ {
+   "Date": "2019-10-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 12557
+ },
+ {
+   "Date": "2019-10-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7982
+ },
+ {
+   "Date": "2019-10-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 8830
+ },
+ {
+   "Date": "2019-08-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7602
+ },
+ {
+   "Date": "2019-08-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2522
+ },
+ {
+   "Date": "2019-08-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2272
+ },
+ {
+   "Date": "2019-08-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1511
+ },
+ {
+   "Date": "2019-08-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1931
+ },
+ {
+   "Date": "2019-08-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1757
+ },
+ {
+   "Date": "2019-08-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1031
+ },
+ {
+   "Date": "2019-08-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2538
+ },
+ {
+   "Date": "2019-08-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2323
+ },
+ {
+   "Date": "2019-08-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2036
+ },
+ {
+   "Date": "2019-08-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3328
+ },
+ {
+   "Date": "2019-08-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3628
+ },
+ {
+   "Date": "2019-08-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 510
+ },
+ {
+   "Date": "2019-08-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1450
+ },
+ {
+   "Date": "2019-09-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2087
+ },
+ {
+   "Date": "2019-09-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 252
+ },
+ {
+   "Date": "2019-09-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3777
+ },
+ {
+   "Date": "2019-09-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 775
+ },
+ {
+   "Date": "2019-09-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2765
+ },
+ {
+   "Date": "2019-09-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 998
+ },
+ {
+   "Date": "2019-09-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 580
+ },
+ {
+   "Date": "2019-09-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1692
+ },
+ {
+   "Date": "2019-09-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 951
+ },
+ {
+   "Date": "2019-09-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1527
+ },
+ {
+   "Date": "2019-09-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1757
+ },
+ {
+   "Date": "2019-09-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 811
+ },
+ {
+   "Date": "2019-09-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1008
+ },
+ {
+   "Date": "2019-09-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 711
+ },
+ {
+   "Date": "2019-09-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 487
+ },
+ {
+   "Date": "2019-09-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 94
+ },
+ {
+   "Date": "2019-09-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1944
+ },
+ {
+   "Date": "2019-09-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2112
+ },
+ {
+   "Date": "2019-09-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4411
+ },
+ {
+   "Date": "2019-09-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1116
+ },
+ {
+   "Date": "2019-09-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 73
+ },
+ {
+   "Date": "2019-09-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1908
+ },
+ {
+   "Date": "2019-09-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1910
+ },
+ {
+   "Date": "2019-09-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5659
+ },
+ {
+   "Date": "2019-09-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4649
+ },
+ {
+   "Date": "2019-09-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6018
+ },
+ {
+   "Date": "2019-09-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2253
+ },
+ {
+   "Date": "2019-09-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1773
+ },
+ {
+   "Date": "2019-09-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6479
+ },
+ {
+   "Date": "2019-09-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 204
+ },
+ {
+   "Date": "2019-10-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2874
+ },
+ {
+   "Date": "2019-10-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2231
+ },
+ {
+   "Date": "2019-10-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2114
+ },
+ {
+   "Date": "2019-10-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2978
+ },
+ {
+   "Date": "2019-10-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2877
+ },
+ {
+   "Date": "2019-10-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1222
+ },
+ {
+   "Date": "2019-10-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7076
+ },
+ {
+   "Date": "2019-10-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1331
+ },
+ {
+   "Date": "2019-10-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 137
+ },
+ {
+   "Date": "2019-10-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 997
+ },
+ {
+   "Date": "2019-10-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2259
+ },
+ {
+   "Date": "2019-10-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 340
+ },
+ {
+   "Date": "2019-10-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2546
+ },
+ {
+   "Date": "2019-10-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 928
+ },
+ {
+   "Date": "2019-10-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1020
+ },
+ {
+   "Date": "2019-10-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2167
+ },
+ {
+   "Date": "2019-10-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2774
+ },
+ {
+   "Date": "2019-10-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1440
+ },
+ {
+   "Date": "2019-10-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6793
+ },
+ {
+   "Date": "2019-10-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2542
+ },
+ {
+   "Date": "2019-10-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2439
+ },
+ {
+   "Date": "2019-10-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4706
+ },
+ {
+   "Date": "2019-10-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9014
+ },
+ {
+   "Date": "2019-10-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 15923
+ },
+ {
+   "Date": "2019-10-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 12987
+ },
+ {
+   "Date": "2019-10-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6376
+ },
+ {
+   "Date": "2019-10-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1227
+ },
+ {
+   "Date": "2019-11-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2070
+ },
+ {
+   "Date": "2019-11-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1846
+ },
+ {
+   "Date": "2019-11-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1571
+ },
+ {
+   "Date": "2019-11-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4304
+ },
+ {
+   "Date": "2019-11-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1692
+ },
+ {
+   "Date": "2019-11-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 886
+ },
+ {
+   "Date": "2019-11-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1755
+ },
+ {
+   "Date": "2019-11-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1716
+ },
+ {
+   "Date": "2019-11-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 311
+ },
+ {
+   "Date": "2019-11-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5764
+ },
+ {
+   "Date": "2019-11-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2131
+ },
+ {
+   "Date": "2019-11-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 655
+ },
+ {
+   "Date": "2019-11-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 762
+ },
+ {
+   "Date": "2019-11-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 639
+ },
+ {
+   "Date": "2019-11-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1015
+ },
+ {
+   "Date": "2019-11-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 581
+ },
+ {
+   "Date": "2019-11-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 46
+ },
+ {
+   "Date": "2019-11-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2388
+ },
+ {
+   "Date": "2019-11-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1742
+ },
+ {
+   "Date": "2019-11-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1031
+ },
+ {
+   "Date": "2019-11-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1039
+ },
+ {
+   "Date": "2019-11-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1237
+ },
+ {
+   "Date": "2019-11-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1787
+ },
+ {
+   "Date": "2019-11-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1810
+ },
+ {
+   "Date": "2019-11-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1166
+ },
+ {
+   "Date": "2019-11-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 113
+ },
+ {
+   "Date": "2019-11-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 418
+ },
+ {
+   "Date": "2019-11-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1542
+ },
+ {
+   "Date": "2019-11-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 957
+ },
+ {
+   "Date": "2019-11-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 425
+ },
+ {
+   "Date": "2019-12-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 932
+ },
+ {
+   "Date": "2019-12-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2763
+ },
+ {
+   "Date": "2019-12-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5505
+ },
+ {
+   "Date": "2019-12-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 851
+ },
+ {
+   "Date": "2019-12-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2039
+ },
+ {
+   "Date": "2019-12-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1344
+ },
+ {
+   "Date": "2019-12-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 533
+ },
+ {
+   "Date": "2019-12-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2454
+ },
+ {
+   "Date": "2019-12-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1192
+ },
+ {
+   "Date": "2019-12-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 666
+ },
+ {
+   "Date": "2019-12-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1362
+ },
+ {
+   "Date": "2019-12-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3227
+ },
+ {
+   "Date": "2019-12-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1042
+ },
+ {
+   "Date": "2019-12-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 379
+ },
+ {
+   "Date": "2019-12-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1713
+ },
+ {
+   "Date": "2019-12-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1587
+ },
+ {
+   "Date": "2019-12-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1160
+ },
+ {
+   "Date": "2019-12-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1296
+ },
+ {
+   "Date": "2019-12-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1715
+ },
+ {
+   "Date": "2019-12-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1221
+ },
+ {
+   "Date": "2019-12-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1173
+ },
+ {
+   "Date": "2019-12-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3768
+ },
+ {
+   "Date": "2019-12-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1255
+ },
+ {
+   "Date": "2019-12-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3646
+ },
+ {
+   "Date": "2019-12-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3709
+ },
+ {
+   "Date": "2019-12-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4890
+ },
+ {
+   "Date": "2019-12-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4885
+ },
+ {
+   "Date": "2019-12-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3160
+ },
+ {
+   "Date": "2019-12-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2301
+ },
+ {
+   "Date": "2019-12-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1450
+ },
+ {
+   "Date": "2019-12-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1022
+ },
+ {
+   "Date": "2020-01-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4573
+ },
+ {
+   "Date": "2020-01-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 856
+ },
+ {
+   "Date": "2020-01-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 765
+ },
+ {
+   "Date": "2020-01-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 408
+ },
+ {
+   "Date": "2020-01-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1171
+ },
+ {
+   "Date": "2020-01-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2751
+ },
+ {
+   "Date": "2020-01-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 877
+ },
+ {
+   "Date": "2020-01-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2044
+ },
+ {
+   "Date": "2020-01-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2315
+ },
+ {
+   "Date": "2020-01-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5636
+ },
+ {
+   "Date": "2020-01-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3446
+ },
+ {
+   "Date": "2020-01-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1821
+ },
+ {
+   "Date": "2020-01-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2497
+ },
+ {
+   "Date": "2020-01-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3471
+ },
+ {
+   "Date": "2020-01-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 679
+ },
+ {
+   "Date": "2020-01-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4176
+ },
+ {
+   "Date": "2020-01-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2893
+ },
+ {
+   "Date": "2020-01-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4566
+ },
+ {
+   "Date": "2020-01-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 946
+ },
+ {
+   "Date": "2020-01-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1990
+ },
+ {
+   "Date": "2020-01-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2473
+ },
+ {
+   "Date": "2019-10-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9299
+ },
+ {
+   "Date": "2020-01-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1883
+ },
+ {
+   "Date": "2020-01-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1941
+ },
+ {
+   "Date": "2020-01-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2687
+ },
+ {
+   "Date": "2020-01-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6976
+ },
+ {
+   "Date": "2020-01-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1812
+ },
+ {
+   "Date": "2020-01-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3180
+ },
+ {
+   "Date": "2020-01-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1896
+ },
+ {
+   "Date": "2020-01-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1015
+ },
+ {
+   "Date": "2020-01-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1521
+ },
+ {
+   "Date": "2020-01-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1047
+ },
+ {
+   "Date": "2020-02-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1145
+ },
+ {
+   "Date": "2020-02-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4683
+ },
+ {
+   "Date": "2020-02-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2695
+ },
+ {
+   "Date": "2020-02-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 4720
+ },
+ {
+   "Date": "2020-02-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2014
+ },
+ {
+   "Date": "2020-02-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 8174
+ },
+ {
+   "Date": "2020-02-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5560
+ },
+ {
+   "Date": "2020-02-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2321
+ },
+ {
+   "Date": "2020-02-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2768
+ },
+ {
+   "Date": "2020-02-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1476
+ },
+ {
+   "Date": "2020-02-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2484
+ },
+ {
+   "Date": "2020-02-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1776
+ },
+ {
+   "Date": "2020-02-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2328
+ },
+ {
+   "Date": "2020-02-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5525
+ },
+ {
+   "Date": "2020-02-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6635
+ },
+ {
+   "Date": "2020-02-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 641
+ },
+ {
+   "Date": "2020-02-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 10355
+ },
+ {
+   "Date": "2020-02-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 10069
+ },
+ {
+   "Date": "2020-02-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9826
+ },
+ {
+   "Date": "2020-02-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2890
+ },
+ {
+   "Date": "2020-02-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6992
+ },
+ {
+   "Date": "2020-02-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5829
+ },
+ {
+   "Date": "2020-02-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1183
+ },
+ {
+   "Date": "2020-02-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 11177
+ },
+ {
+   "Date": "2020-02-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 10713
+ },
+ {
+   "Date": "2020-02-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 15947
+ },
+ {
+   "Date": "2020-02-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9502
+ },
+ {
+   "Date": "2020-02-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 10822
+ },
+ {
+   "Date": "2020-02-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2916
+ },
+ {
+   "Date": "2020-03-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 402
+ },
+ {
+   "Date": "2020-03-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9430
+ },
+ {
+   "Date": "2020-03-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 14220
+ },
+ {
+   "Date": "2020-03-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7743
+ },
+ {
+   "Date": "2020-03-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5889
+ },
+ {
+   "Date": "2020-03-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9839
+ },
+ {
+   "Date": "2020-03-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 11372
+ },
+ {
+   "Date": "2020-03-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 232
+ },
+ {
+   "Date": "2020-03-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 8599
+ },
+ {
+   "Date": "2020-03-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 11376
+ },
+ {
+   "Date": "2020-03-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 8779
+ },
+ {
+   "Date": "2020-03-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9586
+ },
+ {
+   "Date": "2020-03-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2655
+ },
+ {
+   "Date": "2020-03-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 831
+ },
+ {
+   "Date": "2020-03-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 137
+ },
+ {
+   "Date": "2020-03-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 7665
+ },
+ {
+   "Date": "2020-03-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 78
+ },
+ {
+   "Date": "2020-03-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6111
+ },
+ {
+   "Date": "2020-03-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9832
+ },
+ {
+   "Date": "2020-03-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 37
+ },
+ {
+   "Date": "2020-03-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 102
+ },
+ {
+   "Date": "2020-03-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1
+ },
+ {
+   "Date": "2020-03-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 48
+ },
+ {
+   "Date": "2020-03-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 16
+ },
+ {
+   "Date": "2020-03-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 39
+ },
+ {
+   "Date": "2020-03-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 35
+ },
+ {
+   "Date": "2020-03-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 113
+ },
+ {
+   "Date": "2020-03-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 124
+ },
+ {
+   "Date": "2020-03-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 89
+ },
+ {
+   "Date": "2020-04-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 165
+ },
+ {
+   "Date": "2020-04-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 48
+ },
+ {
+   "Date": "2020-04-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 137
+ },
+ {
+   "Date": "2020-04-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 73
+ },
+ {
+   "Date": "2020-04-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 210
+ },
+ {
+   "Date": "2020-04-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 60
+ },
+ {
+   "Date": "2020-04-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 6271
+ },
+ {
+   "Date": "2020-04-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1143
+ },
+ {
+   "Date": "2020-04-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 215
+ },
+ {
+   "Date": "2020-04-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 170
+ },
+ {
+   "Date": "2020-04-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 162
+ },
+ {
+   "Date": "2020-04-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 40
+ },
+ {
+   "Date": "2020-04-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5520
+ },
+ {
+   "Date": "2020-04-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 49
+ },
+ {
+   "Date": "2020-04-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 35
+ },
+ {
+   "Date": "2020-04-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 131
+ },
+ {
+   "Date": "2020-04-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 49
+ },
+ {
+   "Date": "2020-04-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 85
+ },
+ {
+   "Date": "2020-04-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 59
+ },
+ {
+   "Date": "2020-04-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 5067
+ },
+ {
+   "Date": "2020-04-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 116
+ },
+ {
+   "Date": "2020-04-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 368
+ },
+ {
+   "Date": "2020-04-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 34
+ },
+ {
+   "Date": "2020-04-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 86
+ },
+ {
+   "Date": "2020-04-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 270
+ },
+ {
+   "Date": "2020-06-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1332
+ },
+ {
+   "Date": "2020-06-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 153
+ },
+ {
+   "Date": "2020-06-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1150
+ },
+ {
+   "Date": "2020-06-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1336
+ },
+ {
+   "Date": "2020-06-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2302
+ },
+ {
+   "Date": "2020-06-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3203
+ },
+ {
+   "Date": "2020-06-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 86
+ },
+ {
+   "Date": "2020-06-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 787
+ },
+ {
+   "Date": "2020-06-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1451
+ },
+ {
+   "Date": "2020-07-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1325
+ },
+ {
+   "Date": "2020-07-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 85
+ },
+ {
+   "Date": "2020-07-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2116
+ },
+ {
+   "Date": "2020-07-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 202
+ },
+ {
+   "Date": "2020-07-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 73
+ },
+ {
+   "Date": "2020-07-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1138
+ },
+ {
+   "Date": "2020-07-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 228
+ },
+ {
+   "Date": "2020-07-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1756
+ },
+ {
+   "Date": "2020-07-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 531
+ },
+ {
+   "Date": "2020-07-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 31
+ },
+ {
+   "Date": "2020-07-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 303
+ },
+ {
+   "Date": "2020-05-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 169
+ },
+ {
+   "Date": "2020-05-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 116
+ },
+ {
+   "Date": "2020-05-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 230
+ },
+ {
+   "Date": "2020-05-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 16
+ },
+ {
+   "Date": "2020-05-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 8
+ },
+ {
+   "Date": "2020-05-31",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 48
+ },
+ {
+   "Date": "2020-06-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 35
+ },
+ {
+   "Date": "2020-06-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 44
+ },
+ {
+   "Date": "2020-06-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 41
+ },
+ {
+   "Date": "2020-06-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 94
+ },
+ {
+   "Date": "2020-06-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 8
+ },
+ {
+   "Date": "2020-06-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 71
+ },
+ {
+   "Date": "2020-06-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 177
+ },
+ {
+   "Date": "2020-06-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1127
+ },
+ {
+   "Date": "2020-06-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3436
+ },
+ {
+   "Date": "2020-06-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 93
+ },
+ {
+   "Date": "2020-06-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 590
+ },
+ {
+   "Date": "2020-06-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 154
+ },
+ {
+   "Date": "2020-06-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 34
+ },
+ {
+   "Date": "2020-06-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 282
+ },
+ {
+   "Date": "2020-06-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1182
+ },
+ {
+   "Date": "2020-06-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 219
+ },
+ {
+   "Date": "2020-06-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1262
+ },
+ {
+   "Date": "2020-06-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 355
+ },
+ {
+   "Date": "2020-06-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 100
+ },
+ {
+   "Date": "2020-04-29",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 60
+ },
+ {
+   "Date": "2020-04-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9805
+ },
+ {
+   "Date": "2020-05-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 869
+ },
+ {
+   "Date": "2020-05-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 118
+ },
+ {
+   "Date": "2020-05-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 144
+ },
+ {
+   "Date": "2020-05-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 77
+ },
+ {
+   "Date": "2020-05-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 125
+ },
+ {
+   "Date": "2020-05-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 166
+ },
+ {
+   "Date": "2020-05-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 312
+ },
+ {
+   "Date": "2020-05-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 851
+ },
+ {
+   "Date": "2020-05-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 149
+ },
+ {
+   "Date": "2020-05-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 135
+ },
+ {
+   "Date": "2020-05-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 8753
+ },
+ {
+   "Date": "2020-05-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 609
+ },
+ {
+   "Date": "2020-05-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 603
+ },
+ {
+   "Date": "2020-05-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 290
+ },
+ {
+   "Date": "2020-05-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 116
+ },
+ {
+   "Date": "2020-05-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 136
+ },
+ {
+   "Date": "2020-05-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 55
+ },
+ {
+   "Date": "2020-05-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 166
+ },
+ {
+   "Date": "2020-05-19",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 172
+ },
+ {
+   "Date": "2020-05-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1043
+ },
+ {
+   "Date": "2020-05-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 35
+ },
+ {
+   "Date": "2020-05-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 94
+ },
+ {
+   "Date": "2020-05-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 13
+ },
+ {
+   "Date": "2020-05-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 83
+ },
+ {
+   "Date": "2020-05-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 94
+ },
+ {
+   "Date": "2020-06-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 345
+ },
+ {
+   "Date": "2020-06-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1513
+ },
+ {
+   "Date": "2020-07-12",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9474
+ },
+ {
+   "Date": "2020-07-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1118
+ },
+ {
+   "Date": "2020-07-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 203
+ },
+ {
+   "Date": "2020-07-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 820
+ },
+ {
+   "Date": "2020-08-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 145
+ },
+ {
+   "Date": "2020-08-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 257
+ },
+ {
+   "Date": "2020-08-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 260
+ },
+ {
+   "Date": "2020-08-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1692
+ },
+ {
+   "Date": "2020-08-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 41
+ },
+ {
+   "Date": "2020-08-30",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 141
+ },
+ {
+   "Date": "2020-09-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3806
+ },
+ {
+   "Date": "2020-09-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1018
+ },
+ {
+   "Date": "2020-09-15",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3609
+ },
+ {
+   "Date": "2020-09-16",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1244
+ },
+ {
+   "Date": "2020-09-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 9502
+ },
+ {
+   "Date": "2020-09-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1690
+ },
+ {
+   "Date": "2020-09-22",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 358
+ },
+ {
+   "Date": "2020-09-23",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 542
+ },
+ {
+   "Date": "2020-09-24",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3478
+ },
+ {
+   "Date": "2020-09-25",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1709
+ },
+ {
+   "Date": "2020-09-26",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 383
+ },
+ {
+   "Date": "2020-10-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2907
+ },
+ {
+   "Date": "2020-10-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1809
+ },
+ {
+   "Date": "2020-10-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 926
+ },
+ {
+   "Date": "2020-10-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1820
+ },
+ {
+   "Date": "2021-03-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 80
+ },
+ {
+   "Date": "2021-03-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2662
+ },
+ {
+   "Date": "2021-03-05",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1481
+ },
+ {
+   "Date": "2021-03-06",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 386
+ },
+ {
+   "Date": "2021-03-07",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 570
+ },
+ {
+   "Date": "2021-03-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 196
+ },
+ {
+   "Date": "2021-03-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 492
+ },
+ {
+   "Date": "2021-03-13",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1497
+ },
+ {
+   "Date": "2021-03-14",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 488
+ },
+ {
+   "Date": "2021-03-20",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 182
+ },
+ {
+   "Date": "2021-03-21",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 461
+ },
+ {
+   "Date": "2021-03-27",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1559
+ },
+ {
+   "Date": "2021-03-28",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 404
+ },
+ {
+   "Date": "2021-04-03",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 3730
+ },
+ {
+   "Date": "2021-04-04",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 629
+ },
+ {
+   "Date": "2021-04-10",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2756
+ },
+ {
+   "Date": "2021-04-11",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 396
+ },
+ {
+   "Date": "2021-04-17",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 2294
+ },
+ {
+   "Date": "2021-04-18",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 1488
+ },
+ {
+   "Date": "2021-05-01",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 272
+ },
+ {
+   "Date": "2021-05-02",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 412
+ },
+ {
+   "Date": "2021-05-08",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 269
+ },
+ {
+   "Date": "2021-05-09",
+   "heart_rate_bpm": null,
+   "Hours": null,
+   "Steps": 66
+ }
+]

@@ -8,6 +8,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import SideNav from "./components/Sidebar";
 
 import Footer from "./components/Footer";
+//import NameForm from "./components/notes";
 
 class App extends Component {
   render() {
@@ -15,13 +16,16 @@ class App extends Component {
       <div className="wrapper">
         <Router>
           <SideNav />
-          <Route path="/dashboard">
+          <Route path="/dashboard/:handle">
             <Dashboard />
           </Route>
           <Route path="/psychologist">
             <Psychologist />
           </Route>
           <Footer />
+          {/* <Route path="/feedback">
+            <NameForm />
+          </Route> */}
         </Router>
       </div>
     );
