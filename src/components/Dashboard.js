@@ -212,7 +212,7 @@ const Dash = () => {
             color: "lightcoral",
           }}
         >
-          Footsteps, Sleep time and Heart rate of User {userName}
+          Footsteps, Sleep time and Heart rate of {userName}
         </h1>
         <div
           style={{
