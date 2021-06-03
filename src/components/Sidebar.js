@@ -1,6 +1,6 @@
 import React from "react";
 import { Navbar, Nav } from "react-bootstrap";
-
+import walking from "./walking.gif";
 // css for heading
 const headerSheet = {
   fontFamily: "Arial",
@@ -22,7 +22,14 @@ function NavBar() {
     <div>
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Navbar.Brand href="/">
-          <div style={headerSheet}>Mental Health Dashboard</div>
+          <div style={headerSheet}>
+            <img
+              src={walking}
+              alt="Stock Market-Logo"
+              style={{ width: 90, height: 70, padding: "5px" }}
+            />
+            Mental Health Dashboard
+          </div>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">

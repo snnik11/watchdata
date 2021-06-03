@@ -1,17 +1,8 @@
 import React from "react";
 //import hero from "./hero.jpg";
 
-// footer starts
-const FooterName = () => {
-  return (
-    <footer className="footerend">
-      {/* my copyright signature goes here */}
-      <span>FullyDeveloped(); &copy; 2021</span>
-    </footer>
-  );
-};
-
 //footer ends
+import FooterName from "./Footer";
 
 function Home() {
   return (
@@ -28,14 +19,14 @@ function Home() {
           background: "white",
           justifyContent: "space-between",
           fontStyle: "italic",
-          backgroundColor: "lightcoral",
+          backgroundColor: "lightpink",
         }}
       >
         <h1
           style={{
             fontWeight: "bolder",
-            fontFamily: "cursive",
-            color: "white",
+            fontFamily: "Caveat",
+            color: "black",
           }}
         >
           How are you feeling today?
@@ -52,7 +43,7 @@ function Home() {
         </h3> */}
       </div>
 
-      <FooterName />
+      {/* <FooterName /> */}
     </section>
   );
 }

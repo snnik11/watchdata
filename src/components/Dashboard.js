@@ -101,7 +101,7 @@ const Dash = () => {
           className="ag-theme-alpine"
           style={{
             // justifyContent: "center",
-            height: "650px",
+            height: "600px",
             width: "70%",
             paddingLeft: "10px",
             marginLeft: "auto",
@@ -185,7 +185,20 @@ const Dash = () => {
       <br />
       <br />
       <br /> <br /> <br />
+      {/* all 3 graphs */}
       <div className="graphs">
+        <h1
+          style={{
+            fontFamily: "arial",
+            padding: "18px",
+            fontWeight: "bold",
+            textAlign: "center",
+            fontSize: 37,
+            color: "lightcoral",
+          }}
+        >
+          Footsteps, Sleep time and Heart rate of User {handle}
+        </h1>
         <div
           style={{
             justifyContent: "left",
@@ -258,7 +271,7 @@ const Dash = () => {
             }}
           />
           <br />
-          <p> Heart rate (count/min) </p>
+          {/* <p style={{ justifyContent: "center" }}> Heart rate (count/min) </p> */}
         </div>
 
         <div

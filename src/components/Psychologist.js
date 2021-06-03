@@ -7,6 +7,7 @@ import "../App.css";
 import "ag-grid-community/dist/styles/ag-grid.css";
 import "ag-grid-community/dist/styles/ag-theme-alpine.css";
 import Badge from "react-bootstrap/Badge";
+import FooterName from "./Footer";
 
 class Psychologist extends Component {
   render() {
@@ -65,7 +66,7 @@ class Psychologist extends Component {
     };
 
     return (
-      <div className="main">
+      <div className="main" style={{ backgroundColor: "lightpink" }}>
         <br />
 
         {/* card on top */}
@@ -107,14 +108,18 @@ class Psychologist extends Component {
               fontWeight: "bold",
               textAlign: "center",
               fontSize: 37,
-              color: "lightcoral",
+              color: "white",
             }}
           >
-            User Information
+            Client Information
           </h2>
-          <p>
-            <Badge color="success"> {url1.length} </Badge>numbers of clients
-          </p>
+          <h3 style={{ color: "white" }}>
+            You have
+            <Badge color="success" style={{ fontSize: "30px", padding: 5 }}>
+              {url1.length}
+            </Badge>
+            clients
+          </h3>
           <div
             className="ag-theme-alpine"
             style={{
@@ -139,6 +144,8 @@ class Psychologist extends Component {
             <br />
           </div>
         </div>
+        <br />
+        {/* <FooterName /> */}
       </div>
     );
   }
