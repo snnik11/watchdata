@@ -35,3 +35,10 @@
     transform: rotate(360deg);
   }
 }
+
+.footerend {
+  text-align: center;
+  padding: 20px 30px 6px 0px;
+  color: white;
+  background-color: #282c34;
+}

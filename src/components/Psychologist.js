@@ -69,13 +69,13 @@ class Psychologist extends Component {
         <br />
 
         {/* card on top */}
-        <div clasname="card3" style={{ justifyContent: "center" }}>
-          <Card style={{ borderColor: "white" }}>
+        <div clasname="card3">
+          <Card style={{ borderColor: "white", justifyContent: "center" }}>
             <Card.Text
               style={{
                 fontStyle: "italic",
                 fontWeight: "bolder",
-                fontSize: "40px",
+                fontSize: "35px",
                 color: "lightcoral",
                 fontFamily: "Caveat",
               }}
@@ -87,9 +87,9 @@ class Psychologist extends Component {
                 style={{
                   // marginLeft: "auto",
                   // marginRight: "auto",
-                  height: "20%",
-                  width: "20%",
-                  justifyContent: "right",
+                  height: "12%",
+                  width: "12%",
+                  // justifyContent: "right",
                 }}
               />
             </Card.Text>
@@ -103,7 +103,7 @@ class Psychologist extends Component {
           <h2
             style={{
               fontFamily: "arial",
-              padding: "21px",
+              padding: "18px",
               fontWeight: "bold",
               textAlign: "center",
               fontSize: 37,
@@ -119,8 +119,8 @@ class Psychologist extends Component {
             className="ag-theme-alpine"
             style={{
               justifyContent: "center",
-              height: "700px",
-              width: "1000px",
+              height: "560px",
+              width: "1300px",
               marginLeft: "auto",
               marginRight: "auto",
               fontSize: "19px",

@@ -6,6 +6,7 @@ const headerSheet = {
   fontFamily: "Arial",
   fontWeight: "bold",
   fontSize: "29px",
+  fontStyle: "cursive",
 };
 
 // css for navbar links
@@ -26,7 +27,7 @@ function NavBar() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto" style={subSheet}>
-            {/* <Nav.Link href="/">Home</Nav.Link> */}
+            <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/psychologist">Psychology</Nav.Link>
             <Nav.Link href="/dashboard">Dashboard </Nav.Link>
             <Nav.Link href="/login">Login </Nav.Link>
