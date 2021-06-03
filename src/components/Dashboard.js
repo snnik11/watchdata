@@ -50,7 +50,21 @@ const Dash = () => {
   const heartRate = [];
   const footSteps = [];
   const sleep = [];
-  for (var i = 0; i < url.length; i++) {
+
+  const userURl = require("./user.json");
+  var userName;
+  if (handle == 1) userName = userURl[0].name;
+  else if (handle == 2) userName = userURl[1].name;
+  else if (handle == 3) userName = userURl[2].name;
+  else if (handle == 4) userName = userURl[3].name;
+  else if (handle == 5) userName = userURl[4].name;
+  else if (handle == 6) userName = userURl[5].name;
+  else if (handle == 7) userName = userURl[6].name;
+  else if (handle == 8) userName = userURl[7].name;
+  else if (handle == 9) userName = userURl[8].name;
+  else if (handle == 10) userName = userURl[9].name;
+
+  for (var i = 0; i < 30; i++) {
     date[i] = url[i].Date;
     heartRate[i] = url[i]["heart_rate_bpm"];
     footSteps[i] = url[i]["Steps"];
@@ -62,20 +76,20 @@ const Dash = () => {
   heartRate.unshift(0);
 
   //latest sleep readings
-  const lastS = sleep[sleep.length - 1];
+  const lastS = sleep[0];
   const lastSleep = `${lastS}`;
 
   //latest step readings
-  const lastSt = footSteps[footSteps.length - 1];
+  const lastSt = footSteps[0];
 
   //console.log(lastSteps);
 
-  const lastH = heartRate[heartRate.length - 1];
+  const lastH = heartRate[0];
 
   //* * * * *
 
   //lastest date readings
-  const lastDate = [date[date.length - 1]];
+  const lastDate = [date[0]];
 
   // pie  showing  sleep reading from 24h
   const lastSleepPieData = [lastSleep, 24 - lastSleep];
@@ -90,7 +104,7 @@ const Dash = () => {
         }}
       >
         {/* <h2> ID : {id}</h2> */}
-        User {handle} Profile
+        {userName} Profile
       </h1>
       <br />
       <div className="flex-container">

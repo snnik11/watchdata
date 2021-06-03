@@ -8,6 +8,7 @@ import "ag-grid-community/dist/styles/ag-grid.css";
 import "ag-grid-community/dist/styles/ag-theme-alpine.css";
 import Badge from "react-bootstrap/Badge";
 import FooterName from "./Footer";
+import Top3 from "./TopThree";
 
 class Psychologist extends Component {
   render() {
@@ -99,6 +100,7 @@ class Psychologist extends Component {
         </div>
         <br />
         <br />
+        <Top3 />
         {/* table  */}
         <div className="container">
           <h2

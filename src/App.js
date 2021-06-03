@@ -17,20 +17,22 @@ class App extends Component {
     return (
       <div className="wrapper">
         <Router>
-          <SideNav />
           <Route exact path="/">
-            <Home />
+            <Login />
           </Route>
+
+          {/* <Route exact path="/">
+            <Home />
+          </Route> */}
           <Route path="/dashboard/:handle">
+            <SideNav />
             <Dashboard />
           </Route>
           <Route path="/psychologist">
+            <SideNav />
             <Psychologist />
           </Route>
           {/* <Footer /> */}
-          <Route path="/login">
-            <Login />
-          </Route>
         </Router>
       </div>
     );
