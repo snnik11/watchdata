@@ -85,8 +85,8 @@ const Dash = () => {
 
   //console.log(lastSteps);
 
-  const lastH = heartRate[0];
-
+  const lastH = heartRate[1];
+  console.log(lastH);
   //* * * * *
 
   //lastest date readings
