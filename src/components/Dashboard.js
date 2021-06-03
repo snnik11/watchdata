@@ -10,6 +10,7 @@ import bed from "./sleep.gif";
 import walking from "./walking.gif";
 import heartrate from "./heartrate.gif";
 import { useParams } from "react-router-dom";
+
 const Dash = () => {
   let { handle } = useParams();
   //column with all 3 parameter
@@ -173,7 +174,7 @@ const Dash = () => {
                 }}
               />
               <Card.Text style={{ color: "blueviolet", fontWeight: "bold" }}>
-                Time in bed {lastSleep} h{" "}
+                Time in bed {lastSleep} h
               </Card.Text>
               <Card.Img
                 variant="top"
@@ -211,7 +212,7 @@ const Dash = () => {
             color: "lightcoral",
           }}
         >
-          Footsteps, Sleep time and Heart rate of User {handle}
+          Footsteps, Sleep time and Heart rate of User {userName}
         </h1>
         <div
           style={{
