@@ -67,7 +67,7 @@ class Psychologist extends Component {
     };
 
     return (
-      <div className="main" style={{ backgroundColor: "lightpink" }}>
+      <div className="main bg-light">
         <br />
 
         {/* card on top */}
@@ -100,7 +100,7 @@ class Psychologist extends Component {
         </div>
         <br />
         <br />
-        <Top3 />
+        {/* <Top3 /> */}
         {/* table  */}
         <div className="container">
           <h2
@@ -110,18 +110,12 @@ class Psychologist extends Component {
               fontWeight: "bold",
               textAlign: "center",
               fontSize: 37,
-              color: "white",
+              color: "black",
             }}
           >
             Client Information
           </h2>
-          <h3 style={{ color: "white" }}>
-            You have
-            <Badge color="success" style={{ fontSize: "30px", padding: 5 }}>
-              {url1.length}
-            </Badge>
-            clients
-          </h3>
+          <h3 style={{ color: "black" }}>You have {url1.length} clients</h3>
           <div
             className="ag-theme-alpine"
             style={{

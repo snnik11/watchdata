@@ -115,7 +115,14 @@ class Top3 extends Component {
     differenceSahilFootsteps = averageFirstFoot - averageSecondFoot;
     differenceSahilSleep = averageFirstSleep - averageSecondSleep;
 
-    //console.log(differenceSahilFootsteps);
+    console.log(differenceSahilFootsteps);
+    console.log(differenceAdiFootsteps);
+    console.log(differenceBalaFootsteps);
+    //  console.log(differenceBalaFootsteps);
+    console.log(differencePriyaFootsteps);
+    console.log(differenceTejusFootsteps);
+    console.log(differenceYashFootsteps);
+    console.log(" ----------");
     console.log(differenceSahilSleep);
     console.log(differenceAdiSleep);
     console.log(differenceBalaSleep);
@@ -216,9 +223,9 @@ class Top3 extends Component {
                   >
                     Top 3 Sleep...
                   </Card.Title>
-                  <Card.Text> {max[0]}</Card.Text>
-                  <Card.Text> {max[1]}</Card.Text>
-                  <Card.Text> {max[2]}</Card.Text>
+                  <Card.Text> {max[0]} Adi</Card.Text>
+                  <Card.Text> {max[1]} Sahil</Card.Text>
+                  <Card.Text> {max[2]} bala</Card.Text>
                 </Card.Body>
               </Card>
             </div>{" "}
@@ -234,9 +241,9 @@ class Top3 extends Component {
                   >
                     Top 3 steps
                   </Card.Title>
-                  <Card.Text>{maxSteps[0]}</Card.Text>
-                  <Card.Text>{maxSteps[1]}</Card.Text>
-                  <Card.Text>{maxSteps[2]}</Card.Text>
+                  <Card.Text>{maxSteps[0]} Sahil</Card.Text>
+                  <Card.Text>{maxSteps[1]} Yash</Card.Text>
+                  <Card.Text>{maxSteps[2]} Bala</Card.Text>
                 </Card.Body>
               </Card>
             </div>
